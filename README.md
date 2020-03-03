@@ -1,2 +1,81 @@
-# website
+# insilichem.com
+
 InsiliChem website, powered by Hugo and Netlify
+
+# How to add changes
+
+1. Clone the repo.
+2. Do NOT modify master at all - create a branch!
+3. Work on your changes in the new branch.
+4. Test locally with `hugo serve`.
+5. If everything looks alright, push and submit a PR to check the temporary website created by netlify.
+6. If the preview looks ok, go ahead and merge. Changes will be public after a couple of minutes.
+7. If it doesn't, go back to step 3.
+
+# Where to look for changes
+
+## Top bar menu
+
+This is defined in the `config.toml` file:
+
+```
+# Navbar Menus
+[[menu.nav]]
+name    = "About us"
+url     = "about"
+weight  = 2
+[[menu.nav]]
+name    = "Blog"
+url     = "blog"
+weight  = 3
+[[menu.nav]]
+name    = "Publications"
+url     = "publications"
+weight  = 4
+[[menu.nav]]
+name    = "Research"
+url     = "research"
+weight  = 5
+[[menu.nav]]
+name    = "Services"
+url     = "services"
+weight  = 6
+[[menu.nav]]
+name    = "Software"
+url     = "software"
+weight  = 7
+```
+
+* `name`: Title as displayed in the webpage
+* `url`: path within `/content`
+* `weight`: position in the menu
+
+## Frontpage sections and text
+
+Hardcoded in `config.toml`, under `[params.banner]`, `[params.about]`, etc.
+
+## Footer and social icons
+
+Footer is hardcoded in `theme/timer-hugo/partials/footer.html`. Other files in directory control how the parameters specified in `config.toml` are rendered (e.g. the banner). If you need more control over that, feel free to edit this file, but careful not to disrupt the HTML code and, specially, its behavior under different display sizes (responsiveness). If you are not sure, better ask first with an issue.
+
+Social icons can be specified in `config.toml`, under `[[params.socialIcon]]`. Create as many entries as needed.
+
+## Content for different sections
+
+Check under `content/<section>`. Each `_index.md` is the main page in that section. Use Markdown for the markup. Depending on the section, they might have an additional template layout specified under `themes/timer-hugo/layouts/<section>/*`. This might or not be useful, so contact for details on how to get rid of this predefined behaviors.
+
+## How to use images
+
+Local images should be copied to `static/images`. You can create as many directories there if you want to categorize by post type, etc. Then, in your content file use standard markdown notation, but removing the `static` part:
+
+Let's say I copied `image.png` into `static/images/example`:
+
+```
+![example_image_description](/images/example/image.png)
+```
+
+Notice the starting `/` before `images`! Absolute paths are compulsory.
+
+# Questions
+
+Open an issue if there's something not clear and we will try to update this README when necessary.

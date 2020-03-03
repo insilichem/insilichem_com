@@ -1,9 +1,8 @@
+# TODO: Update baseURL once deployed to insilichem.com
 baseURL = "https://jovial-noyce-98deec.netlify.com"
 languageCode = "en-us"
 title = "InsiliChem"
 theme = "timer-hugo"
-
-# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 
 # Navbar Menus
 [[menu.nav]]
@@ -51,8 +50,7 @@ description = "for the study and design of chemobiotechnological systems"
 # button
 btn     = true
 btnText = "Know more"
-btnURL  = "https://themefisher.com/"
-
+btnURL  = "/about"
 # flip text
 [[params.banner.flipText]]
 title   = "Molecular Modeling"
@@ -83,6 +81,7 @@ title   = "Latest Works"
 subtitle= "Check our <a href='https://scholar.google.com/citations?user=1hjLUfgAAAAJ' target='_blank' >latest publications</a>."
 
 # social icon
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 [[params.socialIcon]]
 icon = "ion-social-github"
 url = "https://github.com/insilichem"
