@@ -1,7 +1,7 @@
 # TODO: Update baseURL once deployed to insilichem.com
 baseURL = "https://jovial-noyce-98deec.netlify.com"
 languageCode = "en-us"
-title = "InsiliChem"
+title = "InsiliChem - Chemobiological molecular modeling"
 theme = "timer-hugo"
 
 # Navbar Menus
@@ -36,15 +36,15 @@ home = "Home"
 logo = "/favicon.png"
 dateFormat = "6 January 2006"
 # Meta data
-description = "Airspace Hugo theme"
-author = "Themefisher"
+description = "We are a young team of molecular modelers. Led by Dr. Maréchal, our group focuses on the modeling of systems at the interface between chemistry and biology."
+author = "InsiliChem"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 
 # Banner Section
 [params.banner]
 enable  = true
-bgImage = "images/slider.jpg"
+bgImage = "/images/slider.jpg"
 heading = "InsiliChem"
 description = "for the study and design of chemobiotechnological systems"
 # button
