@@ -1,0 +1,37 @@
+enable  : true
+title   : CURRENT MEMBERS
+members  :
+  - name  :  Dr. Jean-Didier Maréchal
+    image : images/about/jeandidier.jpg
+    designation : Team leader (2009)
+    description : Field of research - Molecular Modeling applied to Biotechnology. Background - Physical Chemistry and Structural Bioinformatics. 
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/in/jean-didier-mar%C3%A9chal-68307510
+    googleplus  : https://plus.google.com/themefisher
+  
+  - name  : Jesmin Martina
+    image : images/team/team-2.jpg
+    designation : CEO, Project Manager
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+  
+  - name  : Deu John
+    image : images/team/team-3.jpg
+    designation : CEO, Project Manager
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Anderson Martin
+    image : images/team/team-4.jpg
+    designation : CEO, Project Manager
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher

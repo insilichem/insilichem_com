@@ -66,6 +66,12 @@ title   = "ABOUT US"
 content = "Led by Dr. Jean-Didier Maréchal, InsiliChem is a team that focuses on the modeling of systems at the interface between <strong>chemistry and biology</strong>. Our primary interests are chemobiological hybrids like artificial enzymes, biosensors and biomarkers and more particularly those involving transition metal moieties. We have a large network of collaborations worldwide both with experimental and theoretical groups leader in these fields.<br />We also intensively work on structural bioinformatics and computational chemistry methodological developments that could sustain our investigation and our multi-scale procedures. Most of our efforts are performed using Python as a principal scripting language. In the last months we have published more than 25 new modeling packages in GitHub. Most of them are GUIs designed for UCSF Chimera, with whom we have a long and strong collaboration."
 image   = "/images/logo_green.svg"
 
+# Portfolio Section On Homepage
+[params.portfolio]
+enable  = true
+title   = "Latest Works"
+subtitle= "Check our <a href='https://scholar.google.com/citations?user=1hjLUfgAAAAJ' target='_blank' >latest publications</a>."
+
 # Call to Action
 [params.cta]
 enable  = true
@@ -73,12 +79,6 @@ title   = "Get in touch"
 content = "We are located at the Chemistry Department of the Universitat Autònoma de Barcelona (Spain)"
 btnText = "Contact us"
 btnURL  = "/contact"
-
-# Portfolio Section On Homepage
-[params.portfolio]
-enable  = true
-title   = "Latest Works"
-subtitle= "Check our <a href='https://scholar.google.com/citations?user=1hjLUfgAAAAJ' target='_blank' >latest publications</a>."
 
 # social icon
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
@@ -89,3 +89,4 @@ url = "https://github.com/insilichem"
 [[params.socialIcon]]
 icon = "ion-social-twitter"
 url = "https://twitter.com/insilichem"
+
