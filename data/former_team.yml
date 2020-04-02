@@ -1,38 +1,88 @@
 enable  : true
 title   : FORMER MEMBERS
 members  :
-  - name  : Jonathon Andrew
-    image : images/team/team-1.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
+  - name  : Bart Brouwer
+    image : images/about/bart.png
+    designation : Master Thesis (2019)
+    background : Chemistry
+    field : Computer aided design of Artificial Metalloenzymes
+    workplace : University of Groningen
+    linkedIn : https://www.linkedin.com/in/bart-brouwer-124204ab/?originalSubdomain=nl
   
-  - name  : Jesmin Martina
-    image : images/team/team-2.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
-  
-  - name  : Deu John
-    image : images/team/team-3.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
+  - name  : Mercè Alemany Chavarria
+    image : images/about/merce.png
+    designation : Grade and Master Thesis (2016-2018)
+    background : Biochemistry
+    field : DevOps, development of automatization tools for informatic systems and processes
+    workplace : LaCaixa
+    linkedIn : https://www.linkedin.com/in/mercè-alemany-chavarria-02371b180/?originalSubdomain=es
+    researchgate : https://www.researchgate.net/profile/Merce_Alemany-Chavarria
 
-  - name  : Anderson Martin
-    image : images/team/team-4.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
+  - name  : Dr. Lur Alonso
+    image : images/about/lur.png
+    designation : PhD Student (2015-2018)
+    background : Biology
+    field : MM, QM and QM/MM applied to modeling of Cu catalysis and metaloenzymes.
+    workplace : University of Groningen
+    linkedIn : https://www.linkedin.com/in/lur-alonso-cotchico-98285575
+    researchgate : https://www.researchgate.net/profile/Lur_Alonso2
+    googlescholar : https://scholar.google.es/citations?user=o8wTM2sAAAAJ
+
+  - name  : Jaime Rodríguez-Guerra
+    image : images/about/jaime.png
+    designation : PhD Student (2015-2018)
+    background : Biotechnology
+    field : Development of a novel software platform for complex molecular design written in Python
+    workplace : Charité Universitätsmedizin Berlin
+    linkedIn : https://www.linkedin.com/in/jaimergp
+    researchgate : https://www.researchgate.net/profile/Jaime_Rodriguez-Guerra_Pedregal
+    googlescholar : https://scholar.google.es/citations?user=imKyayEAAAAJ
+    github : https://github.com/jaimergp
+
+  - name  : Dr. Karel de Pourcq
+    image : images/about/karel.png
+    designation : Master Thesis (2016)
+    background : Biochemistry
+    field : "???"
+    workplace : CRG
+    linkedIn : https://www.linkedin.com/in/kareldepourcq/?originalSubdomain=es
+
+  - name  : Dr. Victor Muñoz
+    image : images/about/victor.png
+    designation : PhD Student
+    background : Biotechnology
+    field : Computational Study of Artificial Metalloenzymes
+    workplace : "??"
+    linkedIn : https://www.linkedin.com/in/victor-mu%C3%B1oz-robles-5427b166/?originalSubdomain=es
+
+  - name  : Lorea Velasco
+    designation : PhD Student (2017-)
+    background : Biological
+    field : "??"
+    workplace : "??"
+    linkedIn : https://www.linkedin.com/in/lorea-velasco-carneros-33979b120/?originalSubdomain=es
+
+  - name  : Dr. Elisabeth Ortega-Carrasco
+    designation : PhD Stay (-)
+    background : Chemistry
+    field : Prediction of the interactions of metalloligands with proteins
+    workplace : "Lead Molecular Design, S.L."
+    linkedin : https://www.linkedin.com/in/elisabeth-ortega-carrasco-8073191b/?originalSubdomain=es
+
+  - name  : Dr. Ivana
+    designation : PhD Stay (2017)
+    background : Chemistry
+    field : Design of Artificial Metalloenzymes
+    workplace : "??"
+
+  - name  : Dr. Beatriz Domínguez
+    designation : PhD (-)
+    background : Chemistry
+    field : "??"
+    workplace : "??" 
+
+  - name  : Dr. Rosa Miralles
+    designation : PhD (-)
+    background : Chemistry
+    field : "??"
+    workplace : "??" 
