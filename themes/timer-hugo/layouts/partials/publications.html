@@ -1,0 +1,38 @@
+{{ if .Site.Data.publications.enable }}
+{{ "<!-- Publications Section Start -->" | safeHTML }}
+<section id="publications">
+    <div class="container">
+        <div class="section-heading">
+            {{ with .Site.Data.publications.title }}<h2 class="block wow fadeInLeft" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
+            {{ with .Site.Data.publications.subtitle }}<p class="wow fadeInDown" data-wow-delay=".5s">{{ . | safeHTML }}</p>{{ end }}
+        </div>
+        <div class="row">
+            {{ range $index, $elemrnt := .Site.Data.publications.item }}
+            <div class="col-md-4 col-sm-4">
+                {{ $delay := mul (add $index 1) 300 }}
+                <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="{{ $delay }}ms">
+                    <div class="media-body" style="text-align:center">
+                        {{ with .image }}
+                        <div class="pub-image">
+                            <img src="{{ . | absURL }}" class="pub-pic" alt="image-paper">
+                        </div>
+                        {{ end }}
+                        {{ with .title }}<h5 class="media-heading">{{ . }}</h5>{{ end }}
+                        {{ with .author }}<h7>{{ . }}</h7>{{ end }}
+                        {{ with .characteristics }}<p>{{ . }}</p>{{ end }}
+                        <p class="social-icons">
+                            {{ with .doi }}
+                            <a href="{{ . }}" target="_blank">
+                                <i class="ion-ios-book-outline"></i>
+                            </a>
+                            {{ end }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ "<!-- Publications Section End -->" | safeHTML }}
+{{ end }}

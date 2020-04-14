@@ -600,10 +600,6 @@ figure figcaption p {
   margin: 0px 0 70px 0;
 }
 
-#feature .media .media-left {
-  padding-right: 25px;
-}
-
 #feature h3 {
   color: #222222;
   font-size: 18px;
@@ -950,13 +946,31 @@ article {
   padding: 30px 20px;
 }
 
-.single-post .media .media-body a {
+.single-post .media {
+  border: none;
+}
+
+.single-post .media .media-body {
   color: #53A56F;
   font-size: 12px;
 }
 
-.single-post .media .media {
-  border: none;
+.single-post .media .media-body .pub-image {
+  position: relative; 
+  margin-bottom: 20px;
+}
+
+.single-post .media .media-body .pub-image .team-pic {
+  width: 100%;
+  margin-bottom: 40px;
+}
+
+.single-post .media .media-body .social-icons a {
+  background: #53A56F;
+  color: #fff;
+  padding: 4px 8px;
+  display: inline-block;
+  font-size: 30px;
 }
 
 .single-post .comments {
