@@ -18,16 +18,16 @@ name    = "Publications"
 url     = "publications"
 weight  = 4
 [[menu.nav]]
-name    = "Research"
-url     = "research"
-weight  = 5
-[[menu.nav]]
 name    = "Services"
 url     = "services"
-weight  = 6
+weight  = 5
 [[menu.nav]]
 name    = "Software"
 url     = "software"
+weight  = 6
+[[menu.nav]]
+name    = "Contact"
+url     = "contact"
 weight  = 7
 
 # Site Params
