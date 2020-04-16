@@ -433,15 +433,15 @@ a:hover {
 }
 
 .about-feature .about-feature-1 {
-  background: #53A56F;
+  background: #99d18f;
 }
 
 .about-feature .about-feature-2 {
-  background: #00B0C7;
+  background: #53A56F;
 }
 
 .about-feature .about-feature-3 {
-  background: #00A6BB;
+  background: #49852e;
 }
 
 .works {
@@ -598,10 +598,6 @@ figure figcaption p {
 
 #feature .media {
   margin: 0px 0 70px 0;
-}
-
-#feature .media .media-left {
-  padding-right: 25px;
 }
 
 #feature h3 {
@@ -950,13 +946,30 @@ article {
   padding: 30px 20px;
 }
 
-.single-post .media .media-body a {
+.single-post .media {
+  border: none;
+}
+
+.single-post .media .media-body {
   color: #53A56F;
   font-size: 12px;
 }
 
-.single-post .media .media {
-  border: none;
+.single-post .media .media-body .pub-image {
+  position: relative; 
+  margin-bottom: 20px;
+}
+
+.single-post .media .media-body .pub-image .team-pic {
+  width: 100%;
+}
+
+.single-post .media .media-body .social-icons a {
+  background: #53A56F;
+  color: #fff;
+  padding: 4px 8px;
+  display: inline-block;
+  font-size: 30px;
 }
 
 .single-post .comments {

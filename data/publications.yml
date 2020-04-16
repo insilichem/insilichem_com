@@ -1,0 +1,40 @@
+enable  : true
+title   : OUR LATEST PUBLICATIONS
+subtitle: >
+  Our group has a high level of research production and publication. In this section, some of the latest publications are shown.
+item    :
+  - image  : images/publications/gantulga2019.jpg
+    title : "Microsolvation and Encapsulation Effects on Supramolecular Catalysis: C−C Reductive Elimination inside [Ga4L6]12- Metallocage"
+    author : G. Norjmaa, et al.
+    characteristics : "JACS, 2019 (Q1, IF: 14.695)"
+    doi : "https://doi.org/10.1021/jacs.9b04909"
+
+  - image  : images/publications/jose2019.jpg
+    title : "GPathFinder: Identification of Ligand-Binding Pathways by a Multi-Objective Genetic Algorithm"
+    author : J.E. Sánchez-Aparicio, et al.
+    characteristics : "Int. J. Mol. Sci, 2019 (Q2, IF: 4.183)"
+    doi : "https://doi.org/10.3390/ijms20133155"
+
+  - image  : images/publications/sciortino2019.jpg
+    title : "Computational insight into the interaction of oxaliplatin with insulin"
+    author : G. Sciortino, et al.
+    characteristics : "Metallomics, 2019 (Q2, IF: 3.571)"
+    doi : "https://pubs.rsc.org/en/content/articlelanding/2019/MT/C8MT00341F#!divAbstract"
+
+  - image  : images/publications/sciortino_acs2019.jpg
+    title : "Simple Coordination Geometry Descriptors Allow to Accurately Predict Metal-Binding Sites in Proteins"
+    author : G. Sciortino, et al.
+    characteristics : "ACS Omega, 2019 (Q2, IF: 2.584)"
+    doi : "https://doi.org/10.1021/acsomega.8b03457"
+  
+  - image  : images/publications/sciortino2019_inchem.jpg
+    title : "Validation and Applications of Protein–Ligand Docking Approaches Improved for Metalloligands with Multiple Vacant Sites"
+    author : G. Sciortino, et al.
+    characteristics : "Inor. Chem., 2019 (Q1, IF: 4.850)"
+    doi : "https://doi.org/10.1021/acs.inorgchem.8b02374"
+
+  - image  : images/publications/villarino2018.jpg
+    title : "An Artificial Heme Enzyme for Cyclopropanation Reactions"
+    author : L. Villarino, et al.
+    characteristics : "Angewandte, 2018 (Q1, IF: 12.257)"
+    doi : "https://doi.org/10.1002/anie.201802946"
