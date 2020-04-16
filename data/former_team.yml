@@ -55,14 +55,8 @@ members  :
     workplace : "??"
     linkedIn : https://www.linkedin.com/in/victor-mu%C3%B1oz-robles-5427b166/?originalSubdomain=es
 
-  - name  : Lorea Velasco
-    designation : PhD Student (2017-)
-    background : Biological
-    field : "??"
-    workplace : "??"
-    linkedIn : https://www.linkedin.com/in/lorea-velasco-carneros-33979b120/?originalSubdomain=es
-
   - name  : Dr. Elisabeth Ortega-Carrasco
+    image : images/about/eli_ortega.png
     designation : PhD Stay (-)
     background : Chemistry
     field : Prediction of the interactions of metalloligands with proteins
