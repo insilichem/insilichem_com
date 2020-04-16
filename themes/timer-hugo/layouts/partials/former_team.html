@@ -19,7 +19,8 @@
                     {{ with .designation }}<p class="team_designation">{{ . }}</p>{{ end }}
                     {{ with .field }}<p class="team_field"><strong>Field of research</strong><br>{{ . }}</p>{{ end }}
                     {{ with .background }}<p class="team_text"><strong>Background</strong><br>{{ . }}</p>{{ end }}
-                    {{ with .workplace }}<p class="work_place"><strong>Actual working place</strong><br>{{ . }}</p>{{ end }}
+                    {{ with .workplace }}<p class="work_place"><strong>Current working place</strong><br>{{ . }}</p>{{ end }}
+
                     <p class="social-icons">
                         {{ with .googlescholar }}
                         <a href="{{ . }}" class="google" target="_blank">
