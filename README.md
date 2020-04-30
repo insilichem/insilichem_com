@@ -64,6 +64,22 @@ Social icons can be specified in `config.toml`, under `[[params.socialIcon]]`. C
 
 Check under `content/<section>`. Each `_index.md` is the main page in that section. Use Markdown for the markup. Depending on the section, they might have an additional template layout specified under `themes/timer-hugo/layouts/<section>/*`. This might or not be useful, so contact for details on how to get rid of this predefined behaviors.
 
+### Research lines
+Under development
+
+### Publications Section
+To include/change papers in the "Our Latest Publications" section, the information is contained in /data/publications.yml directory.
+If the "complete list of publications" has to be updated, just add the new papers in /static/publications/list\_of\_publications.html file, following the specified content.
+
+### Software and services
+Under development
+
+### News
+This page simply contains a link to twitter. If it has to be modified, its information is contained in themes/timer-hugo/layouts/news/list.html directory.
+
+### About Us
+To include or change members, /data/team.yml and /data/former\_team.yml are the files that should be modified.
+   
 ## How to use images
 
 Local images should be copied to `static/images`. You can create as many directories there if you want to categorize by post type, etc. Then, in your content file use standard markdown notation, but removing the `static` part:
