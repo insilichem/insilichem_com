@@ -8,9 +8,7 @@ description : "Our scientific Lines"
 
 ***
 
-InSiliChem is a _molecular modeling_ group with expertise in a wide variety of methods that range from homology modeling, molecular dynamics, protein-ligand dockings or QM based methods. It focuses on two non orthogonal research lines namely 1) computer based molecular design and 2) computational bioinorganics.
-
-To sustain its investigation, in the last years, the group has also deployed substantial efforts to the development of new software in which GaudiMM represents the sparehead.
+InSiliChem is a _molecular modeling_ group with expertise in a wide variety of methods that range from homology modeling, molecular dynamics, protein-ligand dockings or QM based methods. It focuses on two non orthogonal research lines namely 1) computer based molecular design and 2) computational bioinorganics.  To sustain its investigation, in the last years, the group has also deployed substantial efforts to the development of new software in which GaudiMM represents the sparehead.
 
 ***
 
@@ -18,7 +16,7 @@ To sustain its investigation, in the last years, the group has also deployed sub
 
 ## Artificial Metalloenzymes design.
 
-Part of de novo enzyme design, those systems are biohybrids obtained by the incorporation of homogeneous catalysts into proteic hosts. Our group has pioneer many reseaches...collaboration with....
+Part of de novo enzyme design, those systems are biohybrids obtained by the incorporation of homogeneous catalysts into proteic hosts. Our group has pioneer many reseaches...collaboration with international groups include Thomas Ward (Basel), Gerard Roelfes (Groningen) and Jean-Pierre Mahy (Orsay)
 
 ## Metallodrug design
 
