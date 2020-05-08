@@ -1,0 +1,20 @@
+enable  : true
+top_heading   :  Biomedicine and Exogenous compounds
+definition : >
+  The interaction of exogenous compounds with living organisms are key for many of their functions but also a source of many diseases. The second main line of 
+  research of the group focuses on predicting at the molecular level key interactions between thos exogenous compounds and their target in humans or other organisms. 
+  We center our activities on two categories of exogenous, mostly metal ions and natural compounds from pharmacophea. In humans we focus on metabolism enzymes 
+  (e.g. cytochromes P450), neurodegenerative disorder and metal related diseases. For non-human organisms, we focus on pathogenic illnesses like malaria, dengue 
+  and more recently covid-19.
+items :
+  - title : Neurodegenerative diseases
+    description: Metal-beta amyloid
+
+  - title : Metabolism and small molecules-P450 interactions
+    description: > 
+      
+  - title : Identifying natural product positioning
+    description: >
+
+  - title : Metal binding prediction
+    description: >

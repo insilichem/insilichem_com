@@ -67,6 +67,13 @@ a:hover {
   margin-bottom: 20px;
 }
 
+.title_section3 {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 24px;
+  color:#696969;
+  margin-bottom: 20px;
+}
+
 .subtitle {
   font-size: 24px;
   font-weight: 600;
@@ -1263,7 +1270,7 @@ article {
 }
 
 .team-member .team_designation {
-  font-size: 13px;
+  font-size: 15px;
 }
 
 .team-member h3 {

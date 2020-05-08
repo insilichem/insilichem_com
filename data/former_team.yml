@@ -43,7 +43,7 @@ members  :
     image : images/about/karel.jpg
     designation : Master Thesis (2016)
     background : Biochemistry
-    field : "???"
+    field : 
     workplace : CRG
     linkedIn : https://www.linkedin.com/in/kareldepourcq/?originalSubdomain=es
 
@@ -52,11 +52,11 @@ members  :
     designation : PhD Student
     background : Biotechnology
     field : Computational Study of Artificial Metalloenzymes
-    workplace : "??"
+    workplace : 
     linkedIn : https://www.linkedin.com/in/victor-mu%C3%B1oz-robles-5427b166/?originalSubdomain=es
 
   - name  : Dr. Elisabeth Ortega-Carrasco
-    image : images/about/eli_ortega.jpg
+    image : images/about/eli_ortega.jpeg
     designation : PhD Student (-)
     background : Chemistry
     field : Prediction of the interactions of metalloligands with proteins
@@ -67,16 +67,16 @@ members  :
     designation : PhD Stay (2017)
     background : Chemistry
     field : Design of Artificial Metalloenzymes
-    workplace : "??"
+    workplace : 
 
   - name  : Dr. Beatriz Domínguez
     designation : PhD (-)
     background : Chemistry
-    field : "??"
-    workplace : "??" 
+    field : 
+    workplace :  
 
   - name  : Dr. Rosa Miralles
     designation : PhD (-)
     background : Chemistry
-    field : "??"
-    workplace : "??" 
+    field : 
+    workplace :  
