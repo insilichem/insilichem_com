@@ -1252,6 +1252,16 @@ article {
   width: 100%;
 }
 
+.team-member .formerteam-img img {
+  position: relative;
+  margin-bottom: 20px;
+  border-radius: 50%;
+}
+
+.team-member .formerteam-img .team-pic{
+  width: 100%;
+}
+
 .team-member .team_designation {
   font-size: 13px;
 }

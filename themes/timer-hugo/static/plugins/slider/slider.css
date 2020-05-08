@@ -16,6 +16,8 @@ Primary style
   white-space: nowrap;
   left: 0;
   top: 0;
+  font-size: 16px;
+  font-size: 4vw;
 }
 .cd-words-wrapper b.is-visible {
   position: relative;

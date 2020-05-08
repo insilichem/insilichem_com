@@ -79,6 +79,8 @@ This page simply contains a link to twitter. If it has to be modified, its infor
 
 ### About Us
 To include or change members, /data/team.yml and /data/former\_team.yml are the files that should be modified.
+
+The images of the members have to be scale to 200 x 200 pixels in order to keep the same size in the webpage. 
    
 ## How to use images
 

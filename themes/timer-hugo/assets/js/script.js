@@ -62,7 +62,7 @@
             },
         },
         messages: {
-            user_name: {
+            name: {
                 required: "Come on, you have a name don't you?",
                 minlength: "Your name must consist of at least 2 characters"
             },
@@ -71,7 +71,7 @@
             },
             message: {
                 required: "Put some messages here?",
-                minlength: "Your name must consist of at least 2 characters"
+                minlength: "Your message must consist of at least 2 characters"
             },
         },
         submitHandler: function (form) {
