@@ -65,7 +65,7 @@ Social icons can be specified in `config.toml`, under `[[params.socialIcon]]`. C
 Check under `content/<section>`. Each `_index.md` is the main page in that section. Use Markdown for the markup. Depending on the section, they might have an additional template layout specified under `themes/timer-hugo/layouts/<section>/*`. This might or not be useful, so contact for details on how to get rid of this predefined behaviors.
 
 ### Research lines
-Under development
+Its information is contained in each respective `data/Research/*.yml` files. The layout is saved in `themes/timer-hugo/layouts/research_lines/list.html`. The option of appearing and disappearing the content of each section is a Jquery, accessible in the js code. 
 
 ### Publications Section
 To include/change papers in the "Our Latest Publications" section, the information is contained in /data/publications.yml directory.
