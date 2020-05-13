@@ -1,5 +1,5 @@
 enable  : true
-top_heading   :  Software and Methological Developments
+top_heading   :  Phylosophy and Methodology
 definition : >
   InSilichem studies embark a variety of different modeling questions. 
   From sequence analysis, protein-ligand dockings to QM/MM insilichem 
@@ -7,10 +7,43 @@ definition : >
   Insilichem main focuses on systems with little structural information
   has urge to the development of computational softwares in the 
   last 10 years. <br><br>
-  Modeling interaction of environmental molecules with life elements
-items :
-  - title : Natural Products
-    description: 
 
-  - title : Contaminant
+
+  Because of our research interest, we also do methodological development including new software. 
+ 
+image : images/research/multilevel.png
+items :
+  - title : Ground Computational Tools
+    description: >
+      We have a long standing expertise on well established methods in computational chemistry and structural bioinformatics.
+      This includes: <br>
+        - Homology modeling. <br>
+        - Molecular Dynamics. <br>
+        - Protein-ligand dockings and virtual screening. <br>
+        - Quantum Mechanics and hybrid Quantum Mechanics/Molecular Mechanics.<br>
+        - Scripting for analysis and modeling.<br>
+      We adapt our work to the system and can work on standalone or multi-level approaches. This needs in house developments. 
+      All our tools can be reached at the inislichem github platform.
+ 
+  - title : Multi-level integrative computational strategies
+    description: >
+      In many of our works, the combination of several techniques is needed and has to be adapted to the problem under investigation. For that reason, we have been working
+      on a multi-leve platform named tangram that allow to work under a unique visual interface (UCSF CHimera) with most of the programs that we use (openMM, 
+      Gold, GaudiMM, etc.)
+
+  - title : GaudiMM and derivatives
     description: > 
+      A common problem in molecular modeling is the lack of relevant structural starting point. We have been developing during the last 5 years 
+      a modeling platform especially dedicated to bring physically sound models using hypothesis driven methodology. Based on a multi-objective genetic algorithm, 
+      GaudiMM explores the conformational and chemical space by satisfying molecular descriptors (the objectives) under an evolutive process. GaudiMM is highly modular
+      and particularly helpful for systems where standard methodologies are difficult to apply. It provides first order models that could be refined 
+      latter with modeling tools of higher quality.<br>
+      GaudiMM offers a large ensemble of possibilities and extension. One example is gpathfinder that allows to detect small molecule pathways into proteins.
+
+  - title : Predicting metal binding sites
+    description: >
+      A large part of the activity of the group is dedicated to metal bound systems. In this it is fundamental to have access to predictive tools for the simulation of 
+      metal binding process and the determination of metal binding sites in proteins. We have developed several updates in the molecular modeling framework specialized
+      to metal binding processes. Regarding dockings, we have developed extensions into standard docking programs liek Gold to deal with metalloligands and also gave 
+      such abilities to GaudiMM. We also developed metal binding predictors that allow to identify those regions of the protein that could recognize metal ions or 
+      inorganic systems. 

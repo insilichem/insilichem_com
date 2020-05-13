@@ -1,5 +1,5 @@
 enable  : true
-top_heading   :  Phylosophy
+top_heading   :  Software and Methological Developments
 definition : >
   InSilichem studies embark a variety of different modeling questions. 
   From sequence analysis, protein-ligand dockings to QM/MM insilichem 
@@ -7,18 +7,10 @@ definition : >
   Insilichem main focuses on systems with little structural information
   has urge to the development of computational softwares in the 
   last 10 years. <br><br>
-
-  list: 
-  - docking 
-
-Because of our research interest, we also do methodlogical development including new software: 
-  
+  Modeling interaction of environmental molecules with life elements
 items :
-  - title : Multi-level integrative computational strategies
-    description: Tangram
+  - title : Natural Products
+    description: 
 
-  - title : GaudiMM and derivatives
+  - title : Contaminant
     description: > 
-
-  - title : Predicting metal binding sites
-    description: >

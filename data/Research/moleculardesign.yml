@@ -1,7 +1,8 @@
 enable  : true
 top_heading   :  Molecular Design
 definition : >
-  The usefulness of molecular modeling in many fields of chemical sciences is not something to demonstrate. Despite its limitation, modeling allow to grasp molecular knowledge that allow chemists, biochemists and nanotechnologists to make stronger hypothesis about the molecular nature of their systems and develop on this. Our group has a large part of its activity dedicated to help in the design of new molecular entities that range from Artificial Metalloenzymes to new Drugs. The particularity of the group is to give priority to metallic systems. 
+  The usefulness of molecular modeling in many fields of chemical sciences is not something to demonstrate. Modeling allows to grasp molecular knowledge that allow chemists, biochemists and nanotechnologists to make stronger hypothesis about the molecular nature of their systems and develop on this. Our group has a large part of its activity dedicated to help in the design of new molecular entities that range from Artificial Metalloenzymes to new Drugs. The particularity of the group is to give priority to metallic systems. 
+image : images/research/ArM.png
 items : 
   - title : Artificial Metalloenzymes design
     description:  
@@ -20,9 +21,9 @@ items :
       <br>
       <br>
 
-      Our group has pioneered researches in the field of artificial metalloenzymes which main relied on the development of computational integrative 
-      strategies including docking, MD and QM (QM/MM) approaches. We also tripled our efforts to update the computational framework with predictive tools for the binding of 
-      metallic species to protein scaffold. IN particular, we are constantly developing new tools able to predict the binding of metallic compounds to biological hosts 
+      Our group has pioneered researches in the field of artificial metalloenzymes which relied on the development of computational integrative 
+      strategies including docking, MD and QM (QM/MM). We also tripled our efforts to update the computational framework with predictive tools for the binding of 
+      metallic species to protein scaffold. In particular, we are constantly developing new tools able to predict the binding of metallic compounds to biological hosts 
       using structure based approaches and protein-ligand docking in a first instance. 
       <br>
       <br>
@@ -34,24 +35,24 @@ items :
 
   - title : Metallodrug design
     description: > 
-      Since the emergence of cis-platin as a key player in the fight against cancer, numerous drug design projects have been built around metalloligands. Similar to 
-      artificial metalloenzymes, molecular modeling on this field requires methodologies optimized for the prediction of bio-inorganic adducts. 
-      In this field, we already work on a series of metallodrug design problems like the modeling of carboxyplating interacting with insuline or a series of vanadium 
-      drug candidates. We apply and test the 
+      Since the emergence of cis-platin as a key player in the fight against cancer, numerous drug design projects have been built around metalloligands. 
+      Here, molecular modeling also requires methodologies optimized for the prediction of bio-inorganic adducts. 
+      In this field, we already work on a series of metallodrug design problems like the modeling of oxalyplatin interacting with insuline or a series of vanadium 
+      drug candidates. <br> We apply and test the 
       latests updates in force field approaches in our studies on metallodrugs but, more than antyhing else, we develop metal compatible protein-ligand 
-      docking software that give insights to where and how could metal containing species bind to a biological target. In the recent years, we have been particularly 
+      docking software that give insights to where and how could metal containing species bind to a biological target. <br> In the recent years, we have been particularly 
       active in showing how computational framework like ours can be vital to predict accurately the binding of metallodrugs to their target when combined with 
       spectroscopic methods. In this, our collaboration with Prof. Eugenio Garribba (University of Sassari, Italy) has been of the most successful.
 
-  - title : Artificial Metallopeptides
-    description: >
-      Metallopeptides are crucial in many medicinal fields and have also shown to be particularly relevant as supramolecular scaffolds. Here again, we combine 
-      different level of theory to ascertain the most stable structure of artificial metallopeptides, follow their dynamical behavior and, more recently, predict their binding 
-      to key biological partners. We use multi-level approaches and more recently adapted version of GaudiMM on this precise problem. The most representative 
-      applicative work on this line is performed in collaboration with Prof. E. Vazquez and M. Vazquez (University of Santiago de Compostela)
-
   - title : Supramolecular chemistry
     description: >
+
       A recent line of research of the group led between professors Maréchal and Ujaque deals with the suported catalysis by supromolecular molecules 
       and more particularly nanocages. Quite orphan from modeling inputs to date, this line of research has a huge potential in which the expertise we gain on catalytic 
       systems and large biomolecular entities are applied with success.
+
+      Other supramolecular structures we work on are man made Metallopeptides. 
+      Those systems have a lot of potential in many medicinal fields and have also shown to be particularly relevant as supramolecular scaffolds. Here again, we combine 
+      different level of theory to ascertain the most stable structure of artificial metallopeptides, follow their dynamical behavior and, more recently, predict their binding 
+      to key biological partners. We use multi-level approaches and more recently adapted version of GaudiMM on this precise problem. The most representative 
+      applicative work on this line is performed in collaboration with Prof. E. Vazquez and M. Vazquez (University of Santiago de Compostela)
