@@ -31,7 +31,7 @@
                         {{ range $index, $element:= .Site.Data.Research.moleculardesign.items }}
                         <div class="blog-meta">
                             {{ with .title }}<div class="section"><h3 class="title_section3">{{ . }}</h3>{{ end }}
-                            {{ with .description }}<p class="description">{{ . }}</p>{{ end }}
+                            {{ with .description }}<p class="description">{{ . | safeHTML }}</p>{{ end }}
                             </div>
                         </div>
                         {{ end }}
@@ -54,10 +54,13 @@
                     <div>
                         {{ with .Site.Data.Research.biomedicine.top_heading }}<h2 class="title_section2">{{ . }}</h2>{{ end }}
                         {{ with .Site.Data.Research.biomedicine.definition }}<p class="description">{{ . }}</p>{{ end }}
+                        <div class="col-md-6 wow fadeInLeft" data-wow-delay=".3s">
+                       	    {{ with .Site.Data.Research.biomedicine.image }}<img src="{{ . | absURL }}" alt="" class="img-fluid">{{ end }}
+                        </div>
                         {{ range $index, $element:= .Site.Data.Research.biomedicine.items }}
                         <div class="blog-meta">
                             {{ with .title }}<div class="section"><h3 class="title_section3">{{ . }}</h3>{{ end }}
-                            {{ with .description }}<p class="description">{{ . }}</p>{{ end }}
+                            {{ with .description }}<p class="description">{{ . | safeHTML }}</p>{{ end }}
                             </div>
                         </div>
                         {{ end }}

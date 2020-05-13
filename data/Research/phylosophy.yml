@@ -7,10 +7,18 @@ definition : >
   Insilichem main focuses on systems with little structural information
   has urge to the development of computational softwares in the 
   last 10 years. <br><br>
-  Modeling interaction of environmental molecules with life elements
+
+  list: 
+  - docking 
+
+Because of our research interest, we also do methodlogical development including new software: 
+  
 items :
   - title : Multi-level integrative computational strategies
-    description: 
+    description: Tangram
 
   - title : GaudiMM and derivatives
     description: > 
+
+  - title : Predicting metal binding sites
+    description: >

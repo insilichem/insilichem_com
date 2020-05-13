@@ -7,12 +7,14 @@ definition : >
   In humans we focus on metabolizing enzymes (e.g. cytochromes P450), neurodegenerative disorders and metal related diseases. 
   For non-human organisms, we focus on pathogenic illnesses like malaria, dengue 
   and more recently covid-19.
+image : images/research/biometall.jpeg
 items :
-  - title : Neurodegenerative diseases
+  - title : Metal, contaminants and neurodegenerative diseases
     description : > 
      The link between numerous neurodegenerative diseases and metal ions is a question that generate interest in biomedicine. Of the cases more intensively studied 
      is the role of iron, aluminium and copper in the mechanism of aggregation and formation of fibrilar states of b-amyloid systems occuring in 
      alzheimer disease (AD). 
+     <br><br>
      Despite years of investigation, it is still not clear what is the molecular pattern that provide metal ions in those systems and reaching experimental information
      from experimental analysis is still unconclusive.
 
@@ -22,7 +24,7 @@ items :
      metal segregation.
 
   - title : Metabolism and small molecules-P450 interactions
-    description: > 
+    description:  
      Part of the expertise of Dr. Maréchal, the prediction of cytochromes P450 interactions with exogenous compounds and more particular drug compounds is a line of research 
      in expansion at InSilichem. At the moment, the group applies its expertise to human P450s involved in drug metabolism in humans as well as other members involved in 
      vector bone diseases for the metabolism of insecticides. 
@@ -34,5 +36,3 @@ items :
      several projects dedicated to understand at the molecular level the interaction of natural and dietary products (i.e. extract of indigenous medicinal herbs , algae components, molecules of meditarean and other diets) with key 
      targets of human and animal health. Of the projects we could here mention are the prediction of the interaction of dietary products and asian plant extracts with human aromatase, one key enzyme involved in hormone related cancers or the identification of drug candidates from medicinal herbs from the African ecosystem with malaria related enzymes.
 
-  - title : Metal binding prediction
-    description: >
