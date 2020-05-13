@@ -1,5 +1,4 @@
-# TODO: Update baseURL once deployed to insilichem.com
-baseURL = "https://jovial-noyce-98deec.netlify.com"
+baseURL = "https://insiliche.com"
 languageCode = "en-us"
 title = "InsiliChem - Chemobiological molecular modeling"
 theme = "timer-hugo"
@@ -75,7 +74,7 @@ subtitle= "Check our <a href='https://scholar.google.com/citations?user=1hjLUfgA
 # Call to Action
 [params.cta]
 enable  = true
-title   = "Get in touch" 
+title   = "Get in touch"
 btnText = "Contact us"
 btnURL  = "/contact"
 
