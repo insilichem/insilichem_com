@@ -2,6 +2,20 @@
 
 {{ partial "page-title.html" . }}
 
+<section class="blog-full-width">
+    <div class="container">
+        <div class="row"> 
+            <div class="col-md-12">
+                <article class="wow fadeInDown animated" data-wow-delay=".3s" data-wow-duration="500ms" style="visibility: visible; animation-duration: 500ms; animation-delay: 0.3s; animation-name: fadeInDown;">
+                    <center>
+                        {{ .Content }}
+                    </center>
+                </article>
+            </div>
+        </div>
+    </div>
+</section>
+
 {{ if .Site.Data.service.enable }}
 {{ "<!-- Service Section Start -->" | safeHTML }}
 <section id="service-page" class="pages service-page">
