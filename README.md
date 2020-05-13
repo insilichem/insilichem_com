@@ -69,7 +69,7 @@ Its information is contained in each respective `data/Research/*.yml` files. The
 
 ### Publications Section
 To include/change papers in the "Our Latest Publications" section, the information is contained in /data/publications.yml directory.
-If the "complete list of publications" has to be updated, just add the new papers in /static/publications/list\_of\_publications.html file, following the specified content.
+If the "complete list of publications" has to be updated, just add the new papers in /data/allpublications.yml file, generating new items. The layout of this page can be found in `themes/timer-hugo/layouts/allpublications/list.html`.
 
 ### Software and services
 Under development

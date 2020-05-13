@@ -1,0 +1,18 @@
+{{ if .Site.Data.list_publications.enable }}
+{{ "<!-- List Publications Section Start -->" | safeHTML }}
+<section id="publications">
+    <div class="container">
+        <div class="section-heading" style="margin-top:30px">
+            {{ with .Site.Data.publications.title }}<h2 class="subtitle text-center" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
+        </div>
+        <div class="row">
+            {{ range $index, $elemrnt := .Site.Data.publications.item }}
+                <p>
+                {{ with .author }}{{ . }}{{ end }} {{ with .title }}<b>{{ . }}. </b>{{ end }} <i>{{ with .journal }}{{ . }}{{ end }}, {{ with .year }}{{ . }}{{ end }}</i> ({{ with .quartile }}{{ . }}{{ end }}, {{ with .if }}{{ . }}{{ end }})
+                </p>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ "<!-- Publications Section End -->" | safeHTML }}
+{{ end }}
