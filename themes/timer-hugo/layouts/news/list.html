@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ "<!-- News Section Start -->" | safeHTML }}
+<section id="news">
+    <div class="container" style="text-align:center">
+        <a class="twitter-timeline" href="https://twitter.com/insilichem" data-tweet-limit="30" data-width="500"></a>
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+</section>
+{{ "<!-- News Section End -->" | safeHTML }}
+
+{{ partial "cta.html" . }}
+
+{{ end }}

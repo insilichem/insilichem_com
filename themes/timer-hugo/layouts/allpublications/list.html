@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ if .Site.Data.list_publications.enable }}
+{{ "<!-- Complete List Publications Section Start -->" | safeHTML }}
+<section id="publications">
+    <div class="container">
+        <div class="section-heading" style="margin-top:30px;margin-bottom:20px">
+            {{ with .Site.Data.list_publications.title }}<h2 style="text-align:center">{{ . }}</h2>{{ end }}
+        </div>
+        <ol style="text-align:justify" reversed>
+            {{ range $index, $element:= .Site.Data.list_publications.paper }}
+                <li><p>{{ with .author }}{{ . }} {{ end }}{{ with .title }}<b>{{ . }}. </b>{{ end }}{{ with .journal }}<i>{{ . }}, {{ end }}{{ with .year }}{{ . }} </i>{{ end }}{{ with .quartile }}({{ . }}, IF: {{ end }}{{ with .IF }}{{ . }}){{ end }}</p></li>
+            {{ end }}
+        </ol>
+    </div>
+</section>
+{{ "<!-- Complete List Publications Section End -->" | safeHTML }}
+{{ end }}
+
+{{ partial "cta.html" . }}
+
+{{ end }}

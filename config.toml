@@ -6,24 +6,24 @@ theme = "timer-hugo"
 
 # Navbar Menus
 [[menu.nav]]
-name    = "About us"
-url     = "about"
+name    = "Research Lines"
+url     = "research_lines"
 weight  = 2
-[[menu.nav]]
-name    = "Blog"
-url     = "blog"
-weight  = 3
 [[menu.nav]]
 name    = "Publications"
 url     = "publications"
+weight  = 3
+[[menu.nav]]
+name    = "Software and Services"
+url     = "services"
 weight  = 4
 [[menu.nav]]
-name    = "Services"
-url     = "services"
+name    = "News"
+url     = "news"
 weight  = 5
 [[menu.nav]]
-name    = "Software"
-url     = "software"
+name    = "About us"
+url     = "about"
 weight  = 6
 [[menu.nav]]
 name    = "Contact"
@@ -75,8 +75,7 @@ subtitle= "Check our <a href='https://scholar.google.com/citations?user=1hjLUfgA
 # Call to Action
 [params.cta]
 enable  = true
-title   = "Get in touch"
-content = "We are located at the Chemistry Department of the Universitat Autònoma de Barcelona (Spain)"
+title   = "Get in touch" 
 btnText = "Contact us"
 btnURL  = "/contact"
 

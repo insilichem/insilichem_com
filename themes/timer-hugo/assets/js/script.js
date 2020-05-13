@@ -62,7 +62,7 @@
             },
         },
         messages: {
-            user_name: {
+            name: {
                 required: "Come on, you have a name don't you?",
                 minlength: "Your name must consist of at least 2 characters"
             },
@@ -71,7 +71,7 @@
             },
             message: {
                 required: "Put some messages here?",
-                minlength: "Your name must consist of at least 2 characters"
+                minlength: "Your message must consist of at least 2 characters"
             },
         },
         submitHandler: function (form) {
@@ -171,4 +171,17 @@ $(".fancybox").fancybox({
             }
         }
     }
+});
+
+//Appear text
+jQuery(document).ready(function() {
+    $('.section')                          // Filter: .section
+        .find('.description')              // Filter: .section .description
+            .hide()                        // Hide all
+            .end()                         // End current filter
+        .find('.title_section3')                  // Filter: .section
+            .click( function(){            // Set the onclick action
+                $(this).siblings('.description')  // Filter: .section .title (sibling of .description)
+                .slideToggle();            // Toggle visibility
+            });
 });

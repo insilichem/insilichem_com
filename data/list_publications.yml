@@ -1,0 +1,453 @@
+enable  : true
+title   : Complete list of publications (since 2010)
+paper  :
+    - author  :  Norjmaa G. et al.
+      title : "Microsolvation and Encapsulation Effects on Supramolecular Catalysis: C−C Reductive Elimination inside [Ga4L6]12- Metallocage"
+      journal : JACS
+      year : 2019
+      quartile : Q1
+      IF : 14.695
+
+    - author  : Sciortino G. et al. 
+      title : Secondary interactions, steric hindrance and electric charge effect on the interaction of V IV O species with proteins
+      journal : New J. Chem.
+      year : 2019
+      quartile : Q2
+      IF : 3.069
+
+    - author  : Malone S.A. et al.
+      title : Defective AMH signaling disrupts GnRH neuron development and function and contributes to hypogonadotropic hypogonadism
+      journal : Elife
+      year : 2019
+      quartile : Q1
+      IF : 7.551
+
+    - author  : Sanchez-Aparicio J.E. et al.
+      title : "GPathFinder: Identification of Ligand-Binding Pathways by a Multi-Objective Genetic Algorithm"
+      journal : Int. J. Mol. Sci.
+      year : 2019
+      quartile : Q2
+      IF : 4.183       
+
+    - author  : Ugone V. et al.
+      title : "Interaction of Vanadium(IV) Species with Ubiquitin: A Combined Instrumental and Computational Approach"
+      journal : Inorg. Chem.
+      year : 2019
+      quartile : Q1
+      IF : 4.850
+
+    - author  : Sciortino G. et al.
+      title : "Integrated ESI-MS/EPR/computational characterization of the binding of metal species to proteins: vanadium drug-myoglobin application"
+      journal : Inorg. Chem. Front.
+      year : 2019
+      quartile : Q1
+      IF : 5.934
+
+    - author  : Pena Q. et al.
+      title : Studying the reactivity of "old" Cu(II) complexes for "novel" anticancer purposes
+      journal : J. Inorg. Biochem.
+      year : 2019
+      quartile : Q1
+      IF : 3.348
+
+    - author  : Streltsov V.A. et al.
+      title : Discovery of processive catalysis by an exo-hydrolase with a pocket-shaped active site
+      journal : Nat. Commun. 
+      year : 2019
+      quartile : Q1
+      IF : 11.880
+
+    - author  : Alonso-Cotchico L. et al.
+      title : Integrated Computational Study of the Cu-Catalyzed Hydration of Alkenes in Water Solvent and into the Context of an Artificial Metallohydratase
+      journal : ACS Catal.
+      year : 2019
+      quartile : Q1
+      IF : 12.221
+
+    - author  : Alonso-Cotchico L. et al.
+      title : "The Effect of Cofactor Binding on the Conformational Plasticity of the Biological Receptors in Artificial Metalloenzymes: The Case Study of LmrR"
+      journal : Front. Chem.
+      year : 2019
+      quartile : Q2
+      IF : 4.155
+
+    - author  : Sciortino G. et al.
+      title : Computational insight into the interaction of oxaliplatin with insulin
+      journal : Metallomics
+      year : 2019
+      quartile : Q2
+      IF : 3.571
+
+    - author  : Sciortino G. et al.
+      title : Simple Coordination Geometry Descriptors Allow to Accurately Predict Metal-Binding Sites in Proteins
+      journal : ACS Omega
+      year : 2019
+      quartile : Q2
+      IF : 2.584
+
+    - author  : Di Meo T. et al.
+      title : "Functionalized Artificial Bidomain Proteins Based on an alpha-Solenoid Protein Repeat Scaffold: A New Class of Artificial Diels-Alderases"
+      journal : ACS Omega
+      year : 2019
+      quartile : Q2
+      IF : 2.584
+
+    - author  : Schmielau L. et al.
+      title : "Differential response to Cadmium exposure by expression of a two and a three-domain metallothionein isoform in the land winkle Pomatias elegans: Valuating the marine heritage of a land snail"
+      journal : Science of the Total Environment
+      year : 2019
+      quartile : Q1
+      IF : 5.589
+
+    - author  : Rodríguez-Guerra Pedregal J. et al.
+      title : "GARLEEK: Adding an Extra Flavor to ONIOM"
+      journal : J. Comput. Chem.
+      year : 2019
+      quartile : Q2
+      IF : 3.194
+
+    - author  : Villarino L. et al.
+      title : "An Artificial Heme Enzyme for Cyclopropanation Reactions"
+      journal : Angewandte Chemie International Edition
+      year : 2018
+      quartile : Q1
+      IF : 12.102
+
+    - author  : Rodriguez-Guerra Pedregal J. et al.
+      title : "PyChimera: use UCSF Chimera modules in any Python 2.7 project"
+      journal : Bioinformatics
+      year : 2018
+      quartile : Q1
+      IF : 5.481
+
+    - author  : Sciortino G. et al.
+      title : Decoding Surface Interaction of (VO)-O-IV Metallodrug Candidates with Lysozyme 2018
+      journal : Inorganic Chemistry
+      year : 2018
+      quartile : Q1
+      IF : 4.700
+
+    - author  : Rodriguez-Guerra Pedregal J. et al.
+      title : "ESIgen: Electronic Supporting Information Generator for Computational Chemistry Publications"
+      journal : Journal of Chemical Information and Modeling
+      year : 2018
+      quartile : Q1
+      IF : 3.800
+
+    - author  : Sciortino G. et al. 
+      title : DFT Protocol for EPR Prediction of Paramagnetic Cu (II) Complexes and Application to Protein Binding Sites
+      journal : Magnetochemistry
+      year : 2018
+      quartile : 
+      IF : 
+
+    - author  : Hestericova M. et al.
+      title : Directed Evolution of an Artificial Imine Reductase
+      journal : Angewandte Chemie International Edition
+      year : 2018
+      quartile : Q1
+      IF : 12.102
+
+    - author  : Sciortino G. et al.
+      title : "Prediction of the interaction of metallic moieties with proteins: An update for protein-ligand docking techniques"
+      journal : Journal of Computational Chemistry
+      year : 2018
+      quartile : Q2
+      IF : 3.221
+
+    - author  : Sciortino G. et al.
+      title : Validation and Applications of Protein–Ligand Docking Approaches Improved for Metalloligands with Multiple Vacant Sites
+      journal : Inorganic Chemistry
+      year : 2018
+      quartile : Q1
+      IF : 4.700
+
+    - author  : Sciortino G. et al.
+      title : Accurate prediction of vertical electronic transitions of Ni (II) coordination compounds via time dependent density functional theory
+      journal : International Journal of Quantum Chemistry
+      year : 2018
+      quartile : 
+      IF : 
+
+    - author  : Gómez-González J. et al.
+      title : Directed self-assembly of trimeric DNA-binding chiral miniprotein helicates
+      journal : Frontiers in Chemistry
+      year : 2018
+      quartile : 
+      IF : 
+
+    - author  : Sciortino G. et al.
+      title : Elucidation of Binding Site and Chiral Specificity of Oxidovanadium Drugs with Lysozyme through Theoretical Calculations
+      journal : Inorganic Chemistry
+      year : 2017
+      quartile : Q1
+      IF : 4.700
+
+    - author  : Drienovska I. et al.
+      title : Design of an enantioselective artificial metallo-hydratase enzyme containing an unnatural metal-binding amino acid
+      journal : Chemical Science
+      year : 2017
+      quartile : Q1
+      IF : 9.063
+
+    - author  : Rodriguez-Guerra Pedregal J. et al.
+      title : "GaudiMM: A modular multi-objective platform for molecular modeling"
+      journal : Journal of computational chemistry
+      year : 2017
+      quartile : Q2
+      IF : 3.221
+
+    - author  : Mujika J.I. et al.
+      title : "Elucidating the 3D structures of Al (iii)–Aβ complexes: a template free strategy based on the pre-organization hypothesis"
+      journal : Chemical Science
+      year : 2017
+      quartile : Q1
+      IF : 9.063
+
+    - author  : Domenech-Carbo A. et al.
+      title : Bioelectrochemical monitoring of soluble guanylate cyclase inhibition by the natural beta-carboline canthin-6-one
+      journal : Journal of Molecular Structure
+      year : 2017
+      quartile : Q3
+      IF : 2.011
+
+    - author  : de Cozar A. et al.
+      title : "New Insights into the Reactivity of Cisplatin with Free and Restrained Nucleophiles: Energetic Costs of the Three Nucleophilic Substitution Reactions Involved in Cisplatin Activation"
+      journal : ChemPhysChem
+      year : 2016
+      quartile : Q1
+      IF : 3.138
+
+    - author  : Saura P. et al.
+      title : "Computational insight into the catalytic implication of head/tail-first orientation of arachidonic acid in human 5-lipoxygenase: consequences for the positional specificity of oxygenation"
+      journal : Physical Chemistry Chemical Physics
+      year : 2015
+      quartile : Q1
+      IF : 4.449
+
+    - author  : Ghattas W. et al.
+      title : "Artificial Metalloenzymes with the Neocarzinostatin Scaffold: Toward a Biocatalyst for the Diels-Alder Reaction"
+      journal : ChemBioChem
+      year : 2015
+      quartile : Q2
+      IF : 2.850
+
+    - author  : Gamba I. et al.
+      title : The folding of a metallopeptide
+      journal : Dalton Transactions
+      year : 2015
+      quartile : Q1
+      IF : 4.177
+
+    - author  : Dominguez-Perez B. et al.
+      title : Synthesis of Novel Nucleoside Analogues Built on a Bicyclo[4.1.0]heptane Scaffold
+      journal : Journal of Organic Chemistry
+      year : 2015
+      quartile : Q1
+      IF : 4.785
+
+    - author  : Ali-Torres J. et al.
+      title : Modeling Cu2+-A beta complexes from computational approaches
+      journal : AIP Advances
+      year : 2015
+      quartile : Q3
+      IF : 1.444
+
+    - author  : Muñoz Robles V. et al.
+      title : "Toward the Computational Design of Artificial Metalloenzymes: From Protein-Ligand Docking to Multiscale Approaches"
+      journal : ACS Catalysis
+      year : 2015
+      quartile : Q1
+      IF : 9.307
+
+    - author  : Mahy J.-P. et al.
+      title : "From 'hemoabzymes' to 'hemozymes': towards new biocatalysts for selective oxidations"
+      journal : Chemical Communications
+      year : 2015
+      quartile : Q1
+      IF : 6.657
+
+    - author  : Muñoz Robles V. et al.
+      title : "Structural-, Kinetic- and Docking Studies of Artificial Imine Reductases Based on the Biotin-Streptavidin Technology: An Induced Lock-and-Key Hypothesis"
+      journal : The Journal of the American Chemical Society
+      year : 2014
+      quartile : Q1
+      IF : 12.113
+
+    - author  : Mahy J.-P. et al.
+      title : "From 'hemobazymes' to 'hemozymes': towards new biocatalysts for selective oxidations"
+      journal : Journal of Porphyrins and Phtalocyanines
+      year : 2014
+      quartile : Q2
+      IF : 2.285
+
+    - author  : Samper K. G. et al.
+      title : Understanding the interaction of an antitumoral platinum(II) 7-azaindolate complex with proteins and DNA
+      journal : Biometals
+      year : 2014
+      quartile : Q2
+      IF : 3.578
+
+    - author  : Gamba I. et al.
+      title : Programmed stereoselective assembly of DNA-binding helical metallopeptides
+      journal : Chemical Communications
+      year : 2014
+      quartile : Q1
+      IF : 6.718
+
+    - author  : Urvoas A. et al.
+      title : Neocarzinostatin-based hybrid biocatalysts with a RNase like activity
+      journal : Bioorganic & Medicinal Chemistry
+      year : 2014
+      quartile : Q2
+      IF : 2.903
+
+    - author  : Sansiaume-Dagousset E. et al.
+      title : Neocarzinostatin-based hybrid biocatalysts for oxidation reactions
+      journal : Dalton Transactions
+      year : 2014
+      quartile : Q1
+      IF : 4.197
+
+    - author  : Ortega-Carrasco E. et al.
+      title : "Unravelling novel synergies between organometallic and biological partners: a QM/MM study of an artificial metalloenzyme"
+      journal : The Journal of the Royal Society Interface
+      year : 2014
+      quartile : Q1
+      IF : 4.875
+
+    - author  : Alí-Torres J. et al.
+      title : "3D Structures and Redox Potentials of Cu2+Aβ(1-16) Complexes at Different pH: A Computational Study"
+      journal : The Journal of Physical Chemistry B
+      year : 2014
+      quartile : Q1
+      IF : 3.607
+
+    - author  : Muñoz-Robles V. et al.
+      title : Computational Insights on an Artificial Imine Reductase Based on the Biotin–Streptavidin Technology
+      journal : ACS Catalysis
+      year : 2014
+      quartile : Q1
+      IF : 7.572
+
+    - author  : Muñoz-Robles V. et al.
+      title : Application of an integrative computational protocol in the study of an artificial transfer hydrogenase
+      journal : Journal of Biological Inorganic Chemistry
+      year : 2014
+      quartile : 
+      IF : 
+
+    - author  : Carmona F. et al.
+      title : "Monitoring lactoferrin iron levels by fluorescence resonance energy transfer: a combined chemical and computational study"
+      journal : Journal of Biological Inorganic Chemistry
+      year : 2014
+      quartile : Q1
+      IF :  3.164
+
+    - author  : Ortega-Carrasco E. et al.
+      title : Assessing Protein-Ligand Docking for the Binding of Organometallic Compounds to Proteins
+      journal : Journal of Computational Chemistry
+      year : 2014
+      quartile : Q1
+      IF : 3.601
+
+    - author  : Menegazzi M. et al.
+      title : Direct interaction of natural and synthetic catechins with STAT1 affects both its phosphorylation and activity
+      journal : FEBS letters
+      year : 2014
+      quartile : Q3
+      IF : 3.341
+ 
+    - author  : Miralles-Llumà R. et al.
+      title : Synthesis, Antiviral Evaluation, and Computational Studies of Cyclobutane and Cyclobutene L-Nucleoside Analogues European
+      journal : Journal of Organic Chemistry
+      year : 2013
+      quartile : Q2
+      IF : 3.154
+ 
+    - author  : Urosev D. et al.
+      title : "Crystal structure of c5321: a protective antigen present in uropathogenic Escherichia coli strains displaying an SLR fold"
+      journal : BMC Structural Biology
+      year : 2013
+      quartile : Q3
+      IF : 2.222
+
+    - author  : Muñoz Robles V. et al.
+      title : Crystal Structure of Two Anti-Porphyrin Antibodies with Peroxidase Activity
+      journal : PLoS ONE
+      year : 2012
+      quartile : Q1
+      IF : 3.730
+
+    - author  : Ortega-Carrasco E. et al.
+      title : Computational insights on the availability of tri-coordinated cisplatinated adducts with protein models
+      journal : Journal of Inorganic Biochemistry
+      year : 2012
+      quartile : Q1
+      IF : 3.197
+
+    - author  : Rama G. et al.
+      title : Stereoselective Formation of Chiral Metallopeptides
+      journal : Chemistry an European Journal
+      year : 2012
+      quartile : Q1
+      IF : 5.831
+
+    - author  : Cisnetti F. et al.
+      title : Metal complexation of a D-ribose-based ligand decoded by experimental and theoretical studies
+      journal : European Journal of Inorganic Chemistry
+      year : 2012
+      quartile : Q1
+      IF : 3.120
+
+    - author  : Figueras A. et al.
+      title : Synthesis, anti-HIV Activity Studies and in silico Rationalization of Novel Cyclobutane-Fused Nucleosides
+      journal : ChemMedChem
+      year : 2012
+      quartile : Q2
+      IF : 2.835
+
+    - author  : Allard M. et al.
+      title : "Incorportation of manganese complexes into Xylanase: new artificial metalloenzymes for enantioselective epoxidation"
+      journal : ChemBioChem
+      year : 2012
+      quartile : Q1
+      IF : 3.740
+
+    - author  : Alí-Torres J. et al.
+      title : Three Dimensional Models of Cu2+-Aβ(1-16) Complexes from Computational Approaches
+      journal : Journal of American Chemical Society
+      year : 2011
+      quartile : Q1
+      IF : 9.907
+
+    - author  : Muñoz-Robles V. et al.
+      title : What can Molecular Modeling bring into the design of artificial inorganic cofactors?
+      journal : Faraday Discussions
+      year : 2011
+      quartile : Q1
+      IF : 4.538
+
+    - author  : Jinghui L. et al.
+      title : "In silico analysis of the apolipoprotein E and the amyloid beta peptide interaction: misfolding induced by frustration of the salt bridge network"
+      journal : PLoS Computational Biology
+      year : 2010
+      quartile : Q1
+      IF : 5.515
+
+    - author  : Toledo L. et al.
+      title : Insights into the Mechanism of Binding of Arachidonic Acid to Mammalian 15-Lipoxygenases
+      journal : Journal of Physical Chemistry B.
+      year : 2010
+      quartile : Q2
+      IF : 3.264
+
+    - author  : Batista P.R. et al.
+      title : Consensus modes, a robust description of protein collective motions from multiple-minima normal mode analysis--application to the HIV-1 protease
+      journal : Physical Chemistry Chemical Physics
+      year : 2010
+      quartile : Q1
+      IF : 3.603
+
+
+        
