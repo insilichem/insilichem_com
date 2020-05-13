@@ -1,0 +1,16 @@
+enable  : true
+top_heading   :  Phylosophy
+definition : >
+  InSilichem studies embark a variety of different modeling questions. 
+  From sequence analysis, protein-ligand dockings to QM/MM insilichem 
+  owns expertise that allows to work on very different systems. However,
+  Insilichem main focuses on systems with little structural information
+  has urge to the development of computational softwares in the 
+  last 10 years. <br><br>
+  Modeling interaction of environmental molecules with life elements
+items :
+  - title : Multi-level integrative computational strategies
+    description: 
+
+  - title : GaudiMM and derivatives
+    description: > 
