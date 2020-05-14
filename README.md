@@ -82,6 +82,8 @@ To include or change members, `/data/team.yml` and `/data/former_team.yml` are t
 
 The images of the members have to be scale to 200 x 200 pixels in order to keep the same size in the webpage.
 
+The images of the members have to be scale to 200 x 200 pixels in order to keep the same size in the webpage.
+
 ## How to use images
 
 Local images should be copied to `static/images`. You can create as many directories there if you want to categorize by post type, etc. Then, in your content file use standard markdown notation, but removing the `static` part:

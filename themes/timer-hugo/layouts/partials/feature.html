@@ -8,7 +8,7 @@
                 {{ $class := add $index 1 }}
                 <div class="block about-feature-{{ $class }} wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">
                     {{ with .title }}<h2>{{ . }}</h2>{{ end }}
-                    {{ with .description }}<p>{{ . }}</p>{{ end }}
+                    {{ with .description }}<p>{{ . | safeHTML }}</p>{{ end }}
                 </div>
             </div>
             {{ end }}

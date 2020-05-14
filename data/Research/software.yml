@@ -28,7 +28,7 @@ items:
   - title: Multi-level integrative computational strategies
     description: >
       In many of our works, the combination of several techniques is needed and has to be adapted to the problem under investigation. For that reason, we have been working
-      on a multi-leve platform named tangram that allow to work under a unique visual interface (UCSF CHimera) with most of the programs that we use (openMM,
+      on a multi-level platform named tangram that allow to work under a unique visual interface (UCSF Chimera) with most of the programs that we use (openMM,
       Gold, GaudiMM, etc.)
 
   - title: GaudiMM and derivatives
