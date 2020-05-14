@@ -2,13 +2,10 @@ enable  : true
 aboutItem:
   - title : The Mission 
     description: > 
-        Our mission is to develop and apply molecular modeling tools for the design of pharmacologically or biotechnologically active molecules.
+        Our mission is to develop and apply molecular modeling tools for the study and design of pharmacological and biotechnological systems.
   - title : The Strategy
     description: > 
-        The computation of complex systems is generally a long shot. In most of our research, more than one method is needed for an accurate prediction i.e. Quantum Chemistry and large scale Molecular Dynamics.
-        Since feeding molecular modeling programs from one to another is of the most tedious and source of errors in computational chemistry, we and others are betting on multiscale/integrative/multilevel approaches that conveniently combine in a unique protocol.
-  - title : The Tools
+        In our research, we use a broad range of methods and combine them in multi-level platform. We also work intensively on developing our own tools including new docking approaches and molecular builders.  Our expertise range from Homology Modeling, Molecular Dynamics, QM/MM, protein-ligand docking approaches. We also actively participate in the development of new tools to deal with metallic moities in biological system
+  - title : The focus
     description: >
-        Our software developments are centred on two axis.
-        1) To accelerate our multiscale studies, we develop software and interfaces that could ease management of input and output files. In collaboration with the team of the UCSF Chimera, we are implementing novel interface between Homology Modeling, Molecular Dynamics, QM/MM, protein-ligand docking approaches.
-        2) Most of our work also involves major exploration of chemical and conformational space. As current state-of-the-art programs do not consider both exploration spaces, we are intensively working on a genetic algorithm based architecture for this end.
+        We work on the modeling of a variety of fields mainly centered on the development of chemobiological hybdrids like _de novo_ enzymes or drug design projects. In this aspect we work primarily on antipathogenic targets and recently orient our studies towards natural products.
