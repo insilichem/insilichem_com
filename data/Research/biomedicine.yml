@@ -1,39 +1,37 @@
-enable  : true
-top_heading   :  Biomedicine and Exogenous compounds
-definition : >
-  The interaction of exogenous compounds with living organisms is key in many of their functions. It can also be the source of therapies and diseases. The second main line of 
-  research of the group focuses on predicting at the molecular level key interactions between exogenous compounds and their target(s). 
+enable: true
+top_heading: Biomedicine and Exogenous compounds
+definition: >
+  The interaction of exogenous compounds with living organisms is key in many of their functions. It can also be the source of therapies and diseases. The second main line of
+  research of the group focuses on predicting at the molecular level key interactions between exogenous compounds and their target(s).
   <br>
-  We center our activities on two categories: metal ions (either beneficial or contaminant) and natural compounds from pharmacophea. 
-  In humans we focus on metabolizing enzymes (e.g. cytochromes P450), neurodegenerative disorders and metal related diseases. 
-  For non-human organisms, we focus on pathogenic illnesses like malaria, dengue 
+  We center our activities on two categories: metal ions (either beneficial or contaminant) and natural compounds from pharmacophea.
+  In humans we focus on metabolizing enzymes (e.g. cytochromes P450), neurodegenerative disorders and metal related diseases.
+  For non-human organisms, we focus on pathogenic illnesses like malaria, dengue
   and more recently covid-19.
-image : images/research/biometall.jpeg
-items :
-  - title : Metal, contaminants and neurodegenerative diseases
-    description : > 
-     The link between numerous neurodegenerative diseases and metal ions is a question that generate interest in biomedicine. Of the cases more intensively studied 
-     is the role of iron, aluminium and copper in the mechanism of aggregation and formation of fibrilar states of b-amyloid systems occuring in 
-     alzheimer disease (AD). 
-     <br><br>
-     Despite years of investigation, it is still not clear what is the molecular pattern that provide metal ions in those systems and reaching experimental information
-     from experimental analysis is still unconclusive.
-
-     In the last 10 years, we performed a series of studies to ascertain the role of the metal ions in formation of those disease related metallopeptides.
-     Our studies so far allowed to provide with the most reasonable chemical models of the coordination sphere of the metal ions in the amyloid environments especially for copper and aluminium.
-     At the moment, oligomerization processes are under investigation both to better understand the role of the metal in AD but also help to look for therapies based on
-     metal segregation.
-
-  - title : Metabolism and small molecules-P450 interactions
-    description:  
-     Part of the expertise of Dr. Maréchal, the prediction of cytochromes P450 interactions with exogenous compounds and more particular drug compounds is a line of research 
-     in expansion at InSilichem. At the moment, the group applies its expertise to human P450s involved in drug metabolism in humans as well as other members involved in 
-     vector bone diseases for the metabolism of insecticides. 
-
-      
-  - title : Identifying natural product positioning
+image: images/research/biometall.jpeg
+items:
+  - title: Metal, contaminants and neurodegenerative diseases
     description: >
-     This final line of search started in 2018 and is concomitent with the previous one. Passionate about natural products impact of health and society, Insilichem started 
-     several projects dedicated to understand at the molecular level the interaction of natural and dietary products (i.e. extract of indigenous medicinal herbs , algae components, molecules of meditarean and other diets) with key 
-     targets of human and animal health. Of the projects we could here mention are the prediction of the interaction of dietary products and asian plant extracts with human aromatase, one key enzyme involved in hormone related cancers or the identification of drug candidates from medicinal herbs from the African ecosystem with malaria related enzymes.
+      The link between numerous neurodegenerative diseases and metal ions is a question that generate interest in biomedicine. Of the cases more intensively studied
+      is the role of iron, aluminium and copper in the mechanism of aggregation and formation of fibrilar states of b-amyloid systems occuring in
+      alzheimer disease (AD).
+      <br><br>
+      Despite years of investigation, it is still not clear what is the molecular pattern that provide metal ions in those systems and reaching experimental information
+      from experimental analysis is still unconclusive.
 
+      In the last 10 years, we performed a series of studies to ascertain the role of the metal ions in formation of those disease related metallopeptides.
+      Our studies so far allowed to provide with the most reasonable chemical models of the coordination sphere of the metal ions in the amyloid environments especially for copper and aluminium.
+      At the moment, oligomerization processes are under investigation both to better understand the role of the metal in AD but also help to look for therapies based on
+      metal segregation.
+
+  - title: Metabolism and small molecules-P450 interactions
+    description:
+      Part of the expertise of Dr. Maréchal, the prediction of cytochromes P450 interactions with exogenous compounds and more particular drug compounds is a line of research
+      in expansion at InSiliChem. At the moment, the group applies its expertise to human P450s involved in drug metabolism in humans as well as other members involved in
+      vector bone diseases for the metabolism of insecticides.
+
+  - title: Identifying natural product positioning
+    description: >
+      This final line of search started in 2018 and is concomitent with the previous one. Passionate about natural products impact of health and society, InSiliChem started
+      several projects dedicated to understand at the molecular level the interaction of natural and dietary products (i.e. extract of indigenous medicinal herbs , algae components, molecules of meditarean and other diets) with key
+      targets of human and animal health. Of the projects we could here mention are the prediction of the interaction of dietary products and asian plant extracts with human aromatase, one key enzyme involved in hormone related cancers or the identification of drug candidates from medicinal herbs from the African ecosystem with malaria related enzymes.

@@ -1,0 +1,132 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ "<!-- Research Line Section Start -->" | safeHTML }}
+<section class="blog-full-width">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <article class="wow fadeInDown animated" data-wow-delay=".3s" data-wow-duration="500ms"
+                    style="visibility: visible; animation-duration: 500ms; animation-delay: 0.3s; animation-name: fadeInDown;">
+                    <h1>Overview</h1>
+                    <p>InSiliChem is a <i>molecular modeling</i> group with expertise in a wide variety of methods that
+                        range from homology modeling, molecular dynamics, protein-ligand dockings or QM based methods.
+                        It focuses on two lines:
+                        1) computer based molecular design and 2) interactions of exogenous compounds with living
+                        organisms. In both lines, most activities are centered on metal containing systems for which the
+                        team has been acquiring expertise over the years.
+                        To sustain its investigation, the group also deploys substantial efforts for the development of
+                        new software in which GaudiMM is the sparehead.</p>
+                </article>
+            </div>
+        </div>
+    </div>
+</section>
+{{ "<!--  Research Line Section End -->" | safeHTML }}
+
+
+{{ if .Site.Data.Research.moleculardesign.enable }}
+{{ "<!-- Molecular Design Start -->" | safeHTML }}
+<section id="design" class="blog-full-width">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <article class="wow fadeInDown animated" data-wow-delay=".3s" data-wow-duration="500ms"
+                    style="visibility: visible; animation-duration: 500ms; animation-delay: 0.3s; animation-name: fadeInDown;">
+                    <div>
+                        {{ with .Site.Data.Research.moleculardesign.top_heading }}<h2 class="title_section2">{{ . }}
+                        </h2>{{ end }}
+                        {{ with .Site.Data.Research.moleculardesign.definition }}<p class="description">
+                            {{ . | safeHTML }}</p>{{ end }}
+                        <div class="col-md-6 wow fadeInLeft" data-wow-delay=".3s">
+                            {{ with .Site.Data.Research.moleculardesign.image }}<img src="{{ . | absURL }}" alt=""
+                                class="img-fluid">{{ end }}
+                        </div>
+                        {{ range $index, $element:= .Site.Data.Research.moleculardesign.items }}
+                        <div class="blog-meta">
+                            {{ with .title }}<div class="section">
+                                <h3 class="title_section3">{{ . }}</h3>{{ end }}
+                                {{ with .description }}<p class="description">{{ . | safeHTML }}</p>{{ end }}
+                            </div>
+                        </div>
+                        {{ end }}
+                    </div>
+                </article>
+            </div>
+        </div>
+    </div>
+</section>
+{{ "<!-- Molecular Design End -->" | safeHTML }}
+{{ end }}
+
+{{ if .Site.Data.Research.biomedicine.enable }}
+{{ "<!-- Biomedicine Start -->" | safeHTML }}
+<section id="design" class="blog-full-width" span="paddin:0px">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <article class="wow fadeInDown animated" data-wow-delay=".3s" data-wow-duration="500ms"
+                    style="visibility: visible; animation-duration: 500ms; animation-delay: 0.3s; animation-name: fadeInDown;">
+                    <div>
+                        {{ with .Site.Data.Research.biomedicine.top_heading }}<h2 class="title_section2">{{ . }}</h2>
+                        {{ end }}
+                        {{ with .Site.Data.Research.biomedicine.definition }}<p class="description">{{ . | safeHTML }}
+                        </p>{{ end }}
+                        <div class="col-md-6 wow fadeInLeft" data-wow-delay=".3s">
+                            {{ with .Site.Data.Research.biomedicine.image }}<img src="{{ . | absURL }}" alt=""
+                                class="img-fluid">{{ end }}
+                        </div>
+                        {{ range $index, $element:= .Site.Data.Research.biomedicine.items }}
+                        <div class="blog-meta">
+                            {{ with .title }}<div class="section">
+                                <h3 class="title_section3">{{ . }}</h3>{{ end }}
+                                {{ with .description }}<p class="description">{{ . | safeHTML }}</p>{{ end }}
+                            </div>
+                        </div>
+                        {{ end }}
+                    </div>
+                </article>
+            </div>
+        </div>
+    </div>
+</section>
+{{ "<!-- Biomedicine End -->" | safeHTML }}
+{{ end }}
+
+{{ if .Site.Data.Research.software.enable }}
+{{ "<!-- Software Start -->" | safeHTML }}
+<section id="design" class="blog-full-width">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <article class="wow fadeInDown animated" data-wow-delay=".3s" data-wow-duration="500ms"
+                    style="visibility: visible; animation-duration: 500ms; animation-delay: 0.3s; animation-name: fadeInDown;">
+                    <div>
+                        {{ with .Site.Data.Research.software.top_heading }}<h2 class="title_section2">{{ . }}</h2>
+                        {{ end }}
+                        {{ with .Site.Data.Research.software.definition }}<p class="description">{{ . | safeHTML}}</p>
+                        {{ end }}
+                        <div class="col-md-6 wow fadeInLeft" data-wow-delay=".3s">
+                            {{ with .Site.Data.Research.software.image }}<img src="{{ . | absURL }}" alt=""
+                                class="img-fluid">{{ end }}
+                        </div>
+                        {{ range $index, $element:= .Site.Data.Research.software.items }}
+                        <div class="blog-meta">
+                            {{ with .title }}<div class="section">
+                                <h3 class="title_section3">{{ . }}</h3>{{ end }}
+                                {{ with .description }}<p class="description">{{ . | safeHTML }}</p>{{ end }}
+                            </div>
+                        </div>
+                        {{ end }}
+                    </div>
+                </article>
+            </div>
+        </div>
+    </div>
+</section>
+{{ "<!-- Software End -->" | safeHTML }}
+{{ end }}
+{{ partial "cta.html" . }}
+
+{{ end }}
