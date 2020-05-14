@@ -31,9 +31,9 @@ Metallopeptides are crucial in many medicinal fields and have also shown to be p
 
 A recent line of research of the group led between professors Maréchal and Ujaque deals with the suported catalysis by supromolecular molecules and more particularly nanocages. Quite orphan from modeling inputs to date, this line of research has a huge potential in which the expertise we gain on catalytic systems and large biomolecular entities are applied with success.
 
-# `Biomedicine and Exogenous compounds` 
+# `Biomedicine and Exogenous compounds`
 
-The interaction of exogenous compounds with living organisms are key for many of their functions but also a source of many diseases. The second main line of research of the group focuses on predicting at the molecular level key interactions between thos exogenous compounds and their target in humans or other organisms. We center our activities on two categories of exogenous, mostly metal ions and natural compounds from pharmacophea. In humans we focus on metabolism enzymes (e.g. cytochromes P450), neurodegenerative disorder and metal related diseases. For non-human organisms, we focus on pathogenic illnesses like malaria, dengue and more recently covid-19. 
+The interaction of exogenous compounds with living organisms are key for many of their functions but also a source of many diseases. The second main line of research of the group focuses on predicting at the molecular level key interactions between thos exogenous compounds and their target in humans or other organisms. We center our activities on two categories of exogenous, mostly metal ions and natural compounds from pharmacophea. In humans we focus on metabolism enzymes (e.g. cytochromes P450), neurodegenerative disorder and metal related diseases. For non-human organisms, we focus on pathogenic illnesses like malaria, dengue and more recently covid-19.
 
 ## Neurodegenerative diseases
 
@@ -48,7 +48,7 @@ Metal-beta amyloid
 
 # `Software and Methological Developments`
 
-InSilichem studies embark a variety of different modeling questions. From sequence analysis, protein-ligand dockings to QM/MM insilichem owns expertise that allows to work on very different systems. However, Insilichem main focuses on systems with little structural information has urge to the development of computational softwares in the last 10 years.
+InSiliChem studies embark a variety of different modeling questions. From sequence analysis, protein-ligand dockings to QM/MM InSiliChem owns expertise that allows to work on very different systems. However, InSiliChem main focuses on systems with little structural information has urge to the development of computational softwares in the last 10 years.
 
 
 

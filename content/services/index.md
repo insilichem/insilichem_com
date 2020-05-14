@@ -4,7 +4,7 @@ date: 2020-02-24T18:19:33+06:00
 description : "We can help you achieve more"
 ---
 
-InSiliChem is now a well established group with expertise on a variety of computational chemistry methods with interest in fields at the interface between chemistry, biology and medicine. Since 2019, Insilichem offers its skills in form of services that could help those groups and companies interested in molecular insights on their systems. 
+InSiliChem is now a well established group with expertise on a variety of computational chemistry methods with interest in fields at the interface between chemistry, biology and medicine. Since 2019, InSiliChem offers its skills in form of services that could help those groups and companies interested in molecular insights on their systems.
 
 <br>
 Those services include the execution of modeling experiment as well as consulting in aspects like:
@@ -14,7 +14,7 @@ Those services include the execution of modeling experiment as well as consultin
 - modeling of catalytic and biocatalytic processes with QM approaches <br>
 - Molecular Dynamics (classical and ab initio). <br>
 
-Moreover, the expertise of the group in python programming and the development of computational tools like GaudiMM can also serve possible clients interested in computational 
+Moreover, the expertise of the group in python programming and the development of computational tools like GaudiMM can also serve possible clients interested in computational
 tools dedicated specifically at their problems.
 
 In case of being interested, please contact jeandidier.marechal@uab.cat
