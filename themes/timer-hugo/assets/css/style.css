@@ -963,7 +963,7 @@ article {
 }
 
 .single-post .media .media-body .pub-image {
-  position: relative; 
+  position: relative;
   margin-bottom: 20px;
 }
 
@@ -1354,3 +1354,12 @@ ul.social-icons li {
 #copyright a:hover {
   text-decoration: none;
 }
+
+
+.revealable:hover{
+  cursor: pointer;
+}
+  .revealable:hover::after {
+    content: " ⯆";
+
+  }

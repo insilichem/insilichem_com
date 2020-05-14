@@ -1,5 +1,5 @@
-enable  : true
-title   : Our Team
+enable: true
+title: Our Team
 description: >
   The InSiliChem group, led by Dr. Jean-Didier Maréchal, is focused on Molecular Modeling of Transition Metal Systems.
   It is located in the Unitat de Química-Física of the Universitat Autònoma de Barcelona, in Barcelona, Spain.
@@ -7,4 +7,4 @@ description: >
   <br>
   The InSiliChem group combines the expertise of its leaders with a constant youth income, providing the group with
   great vitality and constant motivation.
-image   : /images/about/group.jpg
+image: /images/about/group.jpg

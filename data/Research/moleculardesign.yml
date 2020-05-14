@@ -1,36 +1,58 @@
 enable  : true
 top_heading   :  Molecular Design
+definition : >
+  The usefulness of molecular modeling in many fields of chemical sciences is not something to demonstrate. Modeling allows to grasp molecular knowledge that allow chemists, biochemists and nanotechnologists to make stronger hypothesis about the molecular nature of their systems and develop on this. Our group has a large part of its activity dedicated to help in the design of new molecular entities that range from Artificial Metalloenzymes to new Drugs. The particularity of the group is to give priority to metallic systems. 
+image : images/research/ArM.png
 items : 
   - title : Artificial Metalloenzymes design
-    description: > 
-      The development of sustainable biocatalytic plateforms occupies a preferential position in the green chemistry agenda. The modification of natural enzymes 
-      offers of the most immediate and stable stategies. Nature's enzymatic repertoire though only covers a reduced scope of the current need of the chemical indrustries. As a 
-      consequence, a lot of investigation is undergone nowadays to generate _de novo_ enzymes which activity are absent in Nature. Amongst the most promising approaches are 
-      those that, somehow, copy the mechanism of hemozymes and in which a synthetic homogeneous catalyst is embedded into a biological scaffold. The resulting biohybrids present
-      many challenges in particular when it comes to control several of key molecular factors like to ascertain the exact location of the cofactor, of the substrate as well as 
-      help to design new variants with specific activities. Our group has pioneered many reseaches in this field which include the development of computational integrative 
-      strategies including docking, MD and QM (QM/MM) approaches. We also tripled our efforts to update the computational framework with predictive tools for the binding of 
-      metallic species to protein scaffold. We are lucky to enjoy collaboration with international leaders in the field like Profs. Thomas Ward (Basel), Gerard Roelfes 
+    description:  
+      Biocatalytic platforms occupy a preferential position in the green chemistry agenda and the catalogue of natural enzymes allied with 
+      current biotechnological knowledge 
+      offers a unique opportunity in this area. Despite the pleyades of Nature's enzymatic systems, its repertoire only covers a limited scope of the current need of chemical       industries of catalytic processes. 
+      As a consequence, the discovery of _de novo_ enzymes which activity are absent in Nature is a field of research extremely active. 
+      <br>
+      <br>
+
+      Amongst the most promising strategies 
+      are those based on the insertion of synthetic homogeneous catalyst into a biological scaffold. Somehow reminiscent of naturally occurying hemoenzymes, those 
+      systems provide many advantages for the future of biocatalysis. Howevever, the biohybrids designed to date still present
+      many challenges like the identification the exact location of the cofactor, the characterization of catalytically consistent orientations of the substrate or to 
+      design variants with specific substrate, regio- or enantiospecificities. 
+      <br>
+      <br>
+
+      Our group has pioneered researches in the field of artificial metalloenzymes which relied on the development of computational integrative 
+      strategies including docking, MD and QM (QM/MM). We also tripled our efforts to update the computational framework with predictive tools for the binding of 
+      metallic species to protein scaffold. In particular, we are constantly developing new tools able to predict the binding of metallic compounds to biological hosts 
+      using structure based approaches and protein-ligand docking in a first instance. 
+      <br>
+      <br>
+
+      We are lucky to enjoy collaborations with international leaders in the field like Profs. Thomas Ward (Basel), Gerard Roelfes 
       (Groningen) and Jean-Pierre Mahy (Orsay)
+      <br>
+      <br>
 
   - title : Metallodrug design
     description: > 
-      Since the emergence of cis-platin as a key player in the fight against cancer, numerous drug design projects have been built around metalloligands. Similar to 
-      artificial metalloenzymes, molecular modeling on this field requires methodologies optimized for the simulation of bio-inorganic adducts. We apply and test the 
-      latests updates in force field approaches in our studies on metallodrugs but, more than antyhing else, we pioneer developments of metal compatible protein-ligand 
-      docking software that give insights to where and how could metal containing species bind to a biological target. In the recent years, we have been particularly 
+      Since the emergence of cis-platin as a key player in the fight against cancer, numerous drug design projects have been built around metalloligands. 
+      Here, molecular modeling also requires methodologies optimized for the prediction of bio-inorganic adducts. 
+      In this field, we already work on a series of metallodrug design problems like the modeling of oxalyplatin interacting with insuline or a series of vanadium 
+      drug candidates. <br> We apply and test the 
+      latests updates in force field approaches in our studies on metallodrugs but, more than antyhing else, we develop metal compatible protein-ligand 
+      docking software that give insights to where and how could metal containing species bind to a biological target. <br> In the recent years, we have been particularly 
       active in showing how computational framework like ours can be vital to predict accurately the binding of metallodrugs to their target when combined with 
       spectroscopic methods. In this, our collaboration with Prof. Eugenio Garribba (University of Sassari, Italy) has been of the most successful.
 
-  - title : Artificial Metallopeptides
-    description: >
-      Metallopeptides are crucial in many medicinal fields and have also shown to be particularly relevant as supramolecular scaffold. Here again, we combine 
-      different level of theory to ascertain the most stable structure of artificial metallopeptides, follow their dynamical behavior and, more recently, predict their binding 
-      o key biological partners. Here again we use multi-level approaches and more recently adapted version of GaudiMM on this precise problem. The most representative 
-      applicative work on this line is performed in collaboration with Prof. E. Vazquez and M. Vazquez (University of Santiago de Compostela)
-
   - title : Supramolecular chemistry
     description: >
+
       A recent line of research of the group led between professors Maréchal and Ujaque deals with the suported catalysis by supromolecular molecules 
       and more particularly nanocages. Quite orphan from modeling inputs to date, this line of research has a huge potential in which the expertise we gain on catalytic 
       systems and large biomolecular entities are applied with success.
+
+      Other supramolecular structures we work on are man made Metallopeptides. 
+      Those systems have a lot of potential in many medicinal fields and have also shown to be particularly relevant as supramolecular scaffolds. Here again, we combine 
+      different level of theory to ascertain the most stable structure of artificial metallopeptides, follow their dynamical behavior and, more recently, predict their binding 
+      to key biological partners. We use multi-level approaches and more recently adapted version of GaudiMM on this precise problem. The most representative 
+      applicative work on this line is performed in collaboration with Prof. E. Vazquez and M. Vazquez (University of Santiago de Compostela)

@@ -1,6 +1,6 @@
-# insilichem.com
+# InSiliChem.com
 
-InsiliChem website, powered by Hugo and Netlify
+InSiliChem website, powered by Hugo and Netlify
 
 # How to add changes
 
@@ -65,7 +65,7 @@ Social icons can be specified in `config.toml`, under `[[params.socialIcon]]`. C
 Check under `content/<section>`. Each `_index.md` is the main page in that section. Use Markdown for the markup. Depending on the section, they might have an additional template layout specified under `themes/timer-hugo/layouts/<section>/*`. This might or not be useful, so contact for details on how to get rid of this predefined behaviors.
 
 ### Research lines
-Its information is contained in each respective `data/Research/*.yml` files. The layout is saved in `themes/timer-hugo/layouts/research_lines/list.html`. The option of appearing and disappearing the content of each section is a Jquery, accessible in the js code. 
+Its information is contained in each respective `data/Research/*.yml` files. The layout is saved in `themes/timer-hugo/layouts/research/list.html`. The option of appearing and disappearing the content of each section is a Jquery, accessible in the js code.
 
 ### Publications Section
 To include/change papers in the "Our Latest Publications" section, the information is contained in /data/publications.yml directory.
@@ -75,13 +75,13 @@ If the "complete list of publications" has to be updated, just add the new paper
 Under development
 
 ### News
-This page simply contains a link to twitter. If it has to be modified, its information is contained in themes/timer-hugo/layouts/news/list.html directory.
+This page simply contains a link to twitter. If it has to be modified, its information is contained in `themes/timer-hugo/layouts/news/list.html` directory.
 
 ### About Us
-To include or change members, /data/team.yml and /data/former\_team.yml are the files that should be modified.
+To include or change members, `/data/team.yml` and `/data/former_team.yml` are the files that should be modified.
 
-The images of the members have to be scale to 200 x 200 pixels in order to keep the same size in the webpage. 
-   
+The images of the members have to be scale to 200 x 200 pixels in order to keep the same size in the webpage.
+
 ## How to use images
 
 Local images should be copied to `static/images`. You can create as many directories there if you want to categorize by post type, etc. Then, in your content file use standard markdown notation, but removing the `static` part:
