@@ -1,13 +1,13 @@
 # TODO: Update baseURL once deployed to insilichem.com
 baseURL = "https://jovial-noyce-98deec.netlify.com"
 languageCode = "en-us"
-title = "InsiliChem - Chemobiological molecular modeling"
+title = "InSiliChem - Chemobiological molecular modeling"
 theme = "timer-hugo"
 
 # Navbar Menus
 [[menu.nav]]
 name    = "Research Lines"
-url     = "research_lines"
+url     = "research"
 weight  = 2
 [[menu.nav]]
 name    = "Publications"
@@ -37,7 +37,7 @@ logo = "/favicon.png"
 dateFormat = "6 January 2006"
 # Meta data
 description = "We are a young team of molecular modelers. Led by Dr. Maréchal, our group focuses on the modeling of systems at the interface between chemistry and biology."
-author = "InsiliChem"
+author = "InSiliChem"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 
@@ -45,7 +45,7 @@ googleAnalitycsID = "Your ID"
 [params.banner]
 enable  = true
 bgImage = "/images/slider.jpg"
-heading = "InsiliChem"
+heading = "InSiliChem"
 description = "for the study and design of chemobiotechnological systems"
 # button
 btn     = true
@@ -63,7 +63,7 @@ title   = "Scientific Software Development"
 [params.about]
 enable  = true
 title   = "ABOUT US"
-content = "Led by Dr. Jean-Didier Maréchal, InsiliChem is a team that focuses on the modeling of systems at the interface between <strong>chemistry and biology</strong>. Our primary interests are chemobiological hybrids like artificial enzymes, biosensors and biomarkers and more particularly those involving transition metal moieties. We have a large network of collaborations worldwide both with experimental and theoretical groups leader in these fields.<br />We also intensively work on structural bioinformatics and computational chemistry methodological developments that could sustain our investigation and our multi-scale procedures. Most of our efforts are performed using Python as a principal scripting language. In the last months we have published more than 25 new modeling packages in GitHub. Most of them are GUIs designed for UCSF Chimera, with whom we have a long and strong collaboration."
+content = "Led by Dr. Jean-Didier Maréchal, InSiliChem is a team that focuses on the modeling of systems at the interface between <strong>chemistry and biology</strong>. Our primary interests are chemobiological hybrids like artificial enzymes, biosensors and biomarkers and more particularly those involving transition metal moieties. We have a large network of collaborations worldwide both with experimental and theoretical groups leader in these fields.<br />We also intensively work on structural bioinformatics and computational chemistry methodological developments that could sustain our investigation and our multi-scale procedures. Most of our efforts are performed using Python as a principal scripting language. In the last months we have published more than 25 new modeling packages in GitHub. Most of them are GUIs designed for UCSF Chimera, with whom we have a long and strong collaboration."
 image   = "/images/logo_green.svg"
 
 # Portfolio Section On Homepage
@@ -75,7 +75,7 @@ subtitle= "Check our <a href='https://scholar.google.com/citations?user=1hjLUfgA
 # Call to Action
 [params.cta]
 enable  = true
-title   = "Get in touch" 
+title   = "Get in touch"
 btnText = "Contact us"
 btnURL  = "/contact"
 
