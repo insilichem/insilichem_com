@@ -14,8 +14,7 @@ Those services include the execution of modeling experiment as well as consultin
 - modeling of catalytic and biocatalytic processes with QM approaches <br>
 - Molecular Dynamics (classical and ab initio). <br>
 
-Moreover, the expertise of the group in python programming and the development of computational tools like GaudiMM can also serve possible clients interested in computational
-tools dedicated specifically at their problems.
+Moreover, the expertise of the group in Python programming and the development of computational tools like [GaudiMM](https://github.com/insilichem/gaudi) can also serve possible clients interested in computational tools dedicated specifically at their problems.
 
 In case of being interested, please contact jeandidier.marechal@uab.cat
 

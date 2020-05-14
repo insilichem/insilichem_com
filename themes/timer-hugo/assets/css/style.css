@@ -1355,3 +1355,12 @@ ul.social-icons li {
 #copyright a:hover {
   text-decoration: none;
 }
+
+
+.revealable:hover{
+  cursor: pointer;
+}
+  .revealable:hover::after {
+    content: " ⯆";
+
+  }

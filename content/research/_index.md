@@ -9,7 +9,7 @@ description : "Our scientific Lines"
 ***
 
 InSiliChem is a _molecular modeling_ group with expertise in a wide variety of methods that range from homology modeling, molecular dynamics, protein-ligand dockings or QM based methods. It focuses on two lines namely 1) computer based molecular design and 2) interactions of exogenous compouds with living organisms. In both lines, most activities are centered on metal containing systems for which the team has been acquiring major expertise over the years.
-To sustain its investigation, in the last years, the group has also deployed substantial efforts to the development of new software in which GaudiMM is the sparehead.
+To sustain its investigation, in the last years, the group has also deployed substantial efforts to the development of new software in which GaudiMM is the spearhead.
 
 ***
 
