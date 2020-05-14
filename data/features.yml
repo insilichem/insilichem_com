@@ -3,9 +3,9 @@ aboutItem:
   - title : The Mission 
     description: > 
         Our mission is to develop and apply molecular modeling tools for the study and design of pharmacological and biotechnological systems.
-  - title : The Strategy
-    description: > 
-        In our research, we use a broad range of methods and combine them in multi-level platform. We also work intensively on developing our own tools including new docking approaches and molecular builders.  Our expertise range from Homology Modeling, Molecular Dynamics, QM/MM, protein-ligand docking approaches. We also actively participate in the development of new tools to deal with metallic moities in biological system
   - title : The focus
     description: >
-        We work on the modeling of a variety of fields mainly centered on the development of chemobiological hybdrids like _de novo_ enzymes or drug design projects. In this aspect we work primarily on antipathogenic targets and recently orient our studies towards natural products.
+        We work on the modeling of a variety of fields mainly centered on the development of chemobiological hybdrids like <i>de novo</i> enzymes or drug design projects. In this aspect we work primarily on antipathogenic targets and recently orient our studies towards natural products.
+  - title : The Strategy
+    description: > 
+        In our research, we use a broad range of methods and combine them in multi-level platform. We also work intensively on developing our own tools including new docking approaches and molecular builders.  Our expertise range from Homology Modeling, Molecular Dynamics, QM/MM, protein-ligand docking approaches. We also actively participate in the development of new tools to deal with metallic moieties in biological system.

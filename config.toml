@@ -33,7 +33,7 @@ weight  = 7
 # Site Params
 [params]
 home = "Home"
-logo = "/favicon.png"
+logo = "/images/logo_green.png"
 dateFormat = "6 January 2006"
 # Meta data
 description = "Led by Dr. Maréchal, our group focuses on the modeling of systems at the interface between chemistry and biology."
@@ -63,7 +63,7 @@ title   = "Software Development"
 [params.about]
 enable  = true
 title   = "Briefly..."
-content = "Led by Prof. Jean-Didier Maréchal (cv), InsiliChem is a team that focuses on the modeling of systems at the interface between <strong>chemistry and biology</strong>. We have a broad series of interests but our primarily fields of research are the development of new chemobiological hybrids (e.g. artificial enzymes, metallopeptides, biomarkers) and the identification of bioactive compounds and the study of their pharmacological profiles (e.g. screening of natural compounds against therapeutic drugs, prediction of P450 metabolims). One of the particularity of the group is to also focus on metal mediated processes. <br /> Our work is sustained by a large number of methods from protein-ligand docking to QM/MM but we also intensively work on structural bioinformatics and computational chemistry methodological developments like a multi-scale platform, new analysing tools and a modular molecular sketcher called GaudiMM. Most of these efforts are performed using Python as a principal scripting language. <br /> We have a large network of collaborations worldwide both with experimental and theoretical groups leader in these fields.<br />"
+content = "Led by Prof. Jean-Didier Maréchal <a href='/cv_jdmarechal_web_2020.pdf' target='_blank' >(cv)</a>, InsiliChem is a team that focuses on the modeling of systems at the interface between <strong>chemistry and biology</strong>. We have a broad series of interests but our primarily fields of research are the development of new chemobiological hybrids (e.g. artificial enzymes, metallopeptides, biomarkers) and the identification of bioactive compounds and the study of their pharmacological profiles (e.g. screening of natural compounds against therapeutic drugs, prediction of P450 metabolims). One of the particularity of the group is to also focus on metal mediated processes. <br /> Our work is sustained by a large number of methods from protein-ligand docking to QM/MM but we also intensively work on structural bioinformatics and computational chemistry methodological developments like a multi-scale platform, new analysing tools and a modular molecular sketcher called GaudiMM. Most of these efforts are performed using Python as a principal scripting language. <br /> We have a large network of collaborations worldwide both with experimental and theoretical groups leader in these fields.<br />"
 image   = "/images/home.jpg"
 
 # Portfolio Section On Homepage

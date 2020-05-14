@@ -37,7 +37,7 @@
                         {{ range $index, $element:= .Site.Data.Research.software.items }}
                         <div class="blog-meta">
                             {{ with .title }}<div class="section"><h3 class="title_section3">{{ . }}</h3>{{ end }}
-                            {{ with .description }}<p class="description">{{ . | safeHTML }}</p>{{ end }}
+                            {{ with .description }}<p class="truncate">{{ . | safeHTML }}</p>{{ end }}
                             </div>
                         </div>
                         {{ end }}
@@ -68,7 +68,7 @@
                         {{ range $index, $element:= .Site.Data.Research.moleculardesign.items }}
                         <div class="blog-meta">
                             {{ with .title }}<div class="section"><h3 class="title_section3">{{ . }}</h3>{{ end }}
-                            {{ with .description }}<p class="description">{{ . | safeHTML }}</p>{{ end }}
+                            {{ with .description }}<p class="truncate">{{ . | safeHTML }}</p>{{ end }}
                             </div>
                         </div>
                         {{ end }}
@@ -99,7 +99,7 @@
                         {{ range $index, $element:= .Site.Data.Research.biomedicine.items }}
                         <div class="blog-meta">
                             {{ with .title }}<div class="section"><h3 class="title_section3">{{ . }}</h3>{{ end }}
-                            {{ with .description }}<p class="description">{{ . | safeHTML }}</p>{{ end }}
+                            {{ with .description }}<p class="truncate">{{ . | safeHTML }}</p>{{ end }}
                             </div>
                         </div>
                         {{ end }}
