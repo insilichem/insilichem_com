@@ -11,7 +11,8 @@
         </div>
         {{ range $index, $element:= .Site.Data.services.item }}
         <div class="col-md-6 col-sm-6">
-            <div class="software-offered wow fadeInLeft" data-wow-duration="500ms">
+            {{ $delay := mul (add $index 1) 300 }}
+            <div class="software-offered wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="{{ $delay }}ms">
                 <h2>{{ with .url }}<a href="{{ . }}" target="_blank" >{{ end }}{{ with .name }}{{ . }}</a></h2>{{ end }}
                 <div class="square" data-wow-delay=".3s" style="display:inline-block">
                     {{ with .image }}<img src="{{ . | absURL }}" alt="" class="img-left" style="max-width:20%">{{ end }}
