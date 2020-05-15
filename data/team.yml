@@ -12,6 +12,15 @@ members  :
     web  : http://gent.uab.cat/jdidier/
     twitter : https://twitter.com/jeandidiermare1?s=20
   
+  - name  :  Prof. Dr. Agustí Lledós
+    image : images/about/agusti.jpg
+    designation : Group Leader since 1990
+    field : Computational modeling of organometallic reactivity and homogeneous catalysis.
+    background : Chemistry
+    linkedIn : https://www.linkedin.com/in/agust%C3%AD-lled%C3%B3s-2b49678
+    googlescholar : https://scholar.google.com/citations?user=04cVx6UAAAAJ
+    researchgate : https://www.researchgate.net/profile/Agusti_Lledos
+
   - name  :  Dr. Giuseppe Sciortino
     image : images/about/giuseppe.jpg
     designation : PostDoc Researcher (PhD 2016-2019)
@@ -94,15 +103,6 @@ members  :
     field : Molecular modeling of metal complexes with QM/MM methods.
     background : Chemistry
     researchgate : https://www.researchgate.net/profile/Medigue_Nor_El_Houda
-
-  - name  :  Prof. Dr. Agustí Lledós
-    image : images/about/agusti.jpg
-    designation : Group Leader since 1990
-    field : Computational modeling of organometallic reactivity and homogeneous catalysis.
-    background : Chemistry
-    linkedIn : https://www.linkedin.com/in/agust%C3%AD-lled%C3%B3s-2b49678
-    googlescholar : https://scholar.google.com/citations?user=04cVx6UAAAAJ
-    researchgate : https://www.researchgate.net/profile/Agusti_Lledos
   
   - title : Young Scientist Collaborators
     yscientist : Xavier, Mario

@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ if .Site.Data.services.enable }}
+{{ "<!-- Service Section Start -->" | safeHTML }}
+<section id="service-page">
+    <div class="container" style="text-align:justify">
+        <div class="row"><div class="col-md-12">
+            {{ with .Site.Data.services.subtitle }}<p class="subtitle-des wow fadeInUp animated" data-wow-delay=".5s" data-wow-duration="500ms" style="font-size:16px;margin-top:30px;color:black">{{ . | safeHTML }}</p>{{ end }}
+        </div>
+        {{ range $index, $element:= .Site.Data.services.item }}
+        <div class="col-md-6 col-sm-6">
+            <div class="software-offered wow fadeInLeft" data-wow-duration="500ms">
+                <h2>{{ with .url }}<a href="{{ . }}" target="_blank" >{{ end }}{{ with .name }}{{ . }}</a></h2>{{ end }}
+                <div class="square" data-wow-delay=".3s" style="display:inline-block">
+                    {{ with .image }}<img src="{{ . | absURL }}" alt="" class="img-left" style="max-width:20%">{{ end }}
+                    {{ with .description }}<p>{{ . | safeHTML }}{{ end }} Access it {{ with .url}}<a href="{{ . }}" target="_blank">here.</a> {{ end }}</p>
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</section>
+{{ "<!-- Service Section End -->" | safeHTML }}
+{{ end }}
+
+{{ partial "cta.html" . }}
+
+{{ end }}

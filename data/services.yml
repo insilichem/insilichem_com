@@ -1,0 +1,42 @@
+enable  : true
+title   : Developed Software
+subtitle: >
+  InSiliChem is now a well established group with expertise on a variety of computational chemistry methods with interest in fields at the interface between chemistry, biology and medicine. Since 2019, InSiliChem offers its skills in form of services that could help those groups and companies interested in molecular insights on their systems.
+
+  <br>
+  Those services include the execution of modeling experiment as well as consulting in aspects like:
+  <br>
+  - Homology modeling <br>
+  - protein-ligand dockings and virtual screening <br>
+  - modeling of catalytic and biocatalytic processes with QM approaches <br>
+  - Molecular Dynamics (classical and ab initio). <br>
+
+  Moreover, the expertise of the group in Python programming and the development of computational tools like <a href="https://gaudi.readthedocs.io/en/latest/">GaudiMM</a> can also serve possible clients interested in computational tools dedicated specifically at their problems.
+
+  In case of being interested, please contact <a href="mailto:jeandidier.marechal@uab.es">jeandidier.marechal@uab.es</a>.
+
+item    :
+  - name : GaudiMM 
+    url : https://gaudi.readthedocs.io/en/latest/
+    description : GaudiMM, for Genetic Algorithms with Unrestricted Descriptors for Intuitive Molecular Modeling, helps to sketch new molecular designs that require complex interactions.
+    image :  /images/software/gaudimm-logo.jpg
+
+  - name : GPathFinder 
+    url : https://gpathfinder.readthedocs.io/en/latest/
+    description : GPathFinder is an extension built over GaudiMM core to allow the identification of ligand binding pathways at atomistic level.
+    image :  /images/software/gpathfinderlogo-whitebg.jpg
+    
+  - name  : "Garleek: An extra flavor to ONIOM"
+    url : "https://garleek.readthedocs.io/en/latest/"
+    description : Garleek (recursive acronym for <i>Garleek is Automated Resources for Layered Energies using External Keyword</i>) allows you to perform QM/MM calculations by interfacing Gaussian with MM programs via its external keyword. 
+    image : /images/software/garleek.png
+  
+  - name : Tangram Suite 
+    url : https://tangram-suite.readthedocs.io/en/latest/
+    description : A collection of molecular modelling tools for UCSF Chimera
+    image :  /images/software/tangram.png
+  
+
+
+
+

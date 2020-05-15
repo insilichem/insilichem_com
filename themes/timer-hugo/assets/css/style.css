@@ -1239,6 +1239,10 @@ article {
   line-height: 1.7;
 }
 
+.software-offered {
+  margin-top: 30px;
+}
+
 #team {
   margin: 50px 0;
 }
