@@ -33,7 +33,7 @@ item    :
   
   - name : Tangram Suite 
     url : https://tangram-suite.readthedocs.io/en/latest/
-    description : A collection of molecular modelling tools for UCSF Chimera
+    description : A collection of molecular modelling tools for UCSF Chimera.
     image :  /images/software/tangram.png
   
 
