@@ -15,7 +15,7 @@
                 <h2>{{ with .url }}<a href="{{ . }}" target="_blank" >{{ end }}{{ with .name }}{{ . }}</a></h2>{{ end }}
                 <div class="square" data-wow-delay=".3s" style="display:inline-block">
                     {{ with .image }}<img src="{{ . | absURL }}" alt="" class="img-left" style="max-width:20%">{{ end }}
-                    {{ with .description }}<p>{{ . | safeHTML }}{{ end }} Access it {{ with .url}}<a href="{{ . }}" target="_blank">here.</a> {{ end }}</p>
+                    {{ with .description }}<p>{{ . | safeHTML }}{{ end }} Access it {{ with .url}}<a href="{{ . }}" target="_blank">here</a>. {{ end }}</p>
                 </div>
             </div>
         </div>
