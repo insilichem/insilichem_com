@@ -54,7 +54,7 @@
                 </div>
                 <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="{{ $delay }}ms">
                     {{ with .title }}<h3 class="collaborations">{{ . }}</h3>{{ end }}
-                    {{ with .yscientist }}<p class="names">{{ . }}</p>{{ end }}
+                    {{ with .yscientist }}<p class="team_text">{{ . | safeHTML }}</p>{{ end }}
                 </div>
             </div>
             {{ end }}

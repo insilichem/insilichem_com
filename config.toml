@@ -22,8 +22,8 @@ name    = "News"
 url     = "news"
 weight  = 5
 [[menu.nav]]
-name    = "About us"
-url     = "about"
+name    = "The Team"
+url     = "team"
 weight  = 6
 [[menu.nav]]
 name    = "Contact"
