@@ -175,20 +175,20 @@ $(".fancybox").fancybox({
 
 //Appear text
 //jQuery(document).ready(function() {
-//    $('.section')                          // Filter: .section
-//        .find('.description')              // Filter: .section .description
-//            .hide()                        // Hide all
-//            .end()                         // End current filter
+//    $('.section')                                 // Filter: .section
+//        .find('.description')                     // Filter: .section .description
+//            .hide()                               // Hide all
+//            .end()                                // End current filter
 //        .find('.title_section3')                  // Filter: .section
-//            .click( function(){            // Set the onclick action
+//            .click( function(){                   // Set the onclick action
 //                $(this).siblings('.description')  // Filter: .section .title (sibling of .description)
-//                .slideToggle();            // Toggle visibility
+//                .slideToggle();                   // Toggle visibility
 //            });
 //});
 
 $(document).ready(function() {
     (function() {
-      var showChar = 120;
+      var showChar = 140;
       var ellipsestext = "...";
   
       $(".truncate").each(function() {

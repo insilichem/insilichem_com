@@ -12,6 +12,15 @@ members  :
     web  : http://gent.uab.cat/jdidier/
     twitter : https://twitter.com/jeandidiermare1?s=20
   
+  - name  :  Prof. Dr. Agustí Lledós
+    image : images/about/agusti.jpg
+    designation : Group Leader since 1990
+    field : Computational modeling of organometallic reactivity and homogeneous catalysis.
+    background : Chemistry
+    linkedIn : https://www.linkedin.com/in/agust%C3%AD-lled%C3%B3s-2b49678
+    googlescholar : https://scholar.google.com/citations?user=04cVx6UAAAAJ
+    researchgate : https://www.researchgate.net/profile/Agusti_Lledos
+
   - name  :  Dr. Giuseppe Sciortino
     image : images/about/giuseppe.jpg
     designation : PostDoc Researcher (PhD 2016-2019)
@@ -37,13 +46,6 @@ members  :
     researchgate : https://www.researchgate.net/profile/Jose_Emilio_Sanchez-Aparicio
     twitter : https://twitter.com/josan_bcn?s=20
     github : https://github.com/josan82
-
-  - name  :  Lorea Velasco Carneros
-    image : images/about/loreav.jpeg
-    designation : PhD Student (2018-)
-    field : Regulation of the human disaggregase system, which is key for the prevention of neurodegenerative diseases.
-    background : Biochemistry and Molecular Biology
-    researchgate : https://www.researchgate.net/profile/Lorea_Velasco 
 
   - name  :  Laura Tiessler-Sala
     image : images/about/laurat.jpg
@@ -73,36 +75,24 @@ members  :
     linkedIn : https://www.linkedin.com/in/zgysling/
     twitter : https://twitter.com/zapisaurus?s=20
 
+  - name  :  Xavier Fernández Luengo
+    image : images/about/loreav.jpeg
+    designation : PhD Student (2019-)
+    field : 
+    background : 
+    researchgate :  
+
   - name  : Laura Martínez
     image : images/about/lauram.jpg
     designation : Master student (2018-)
     field : Molecular modeling of metalopeptides with QM/MM methods.
     background : Chemistry
     linkedIn : https://www.linkedin.com/in/laura-martinez-castro-93bb3b155
-
-  - name  : Daniel Dorce
-    image : images/about/daniel_dorce.jpg
-    designation : Master student (2019-)
-    field : Molecular modeling of Vitamin B12 loaded activated carbon - from binding to catalysis.
-    background : Chemistry
-    linkedIn : https://www.linkedin.com/in/dorce-daniel-64a97367/
-    researchgate : https://www.researchgate.net/profile/Daniel_Dorce
-
-  - name  :  Nor El Houda Medigue
-    image : images/about/houda.jpg
-    designation : PhD Stay (2019-)
-    field : Molecular modeling of metal complexes with QM/MM methods.
-    background : Chemistry
-    researchgate : https://www.researchgate.net/profile/Medigue_Nor_El_Houda
-
-  - name  :  Prof. Dr. Agustí Lledós
-    image : images/about/agusti.jpg
-    designation : Group Leader since 1990
-    field : Computational modeling of organometallic reactivity and homogeneous catalysis.
-    background : Chemistry
-    linkedIn : https://www.linkedin.com/in/agust%C3%AD-lled%C3%B3s-2b49678
-    googlescholar : https://scholar.google.com/citations?user=04cVx6UAAAAJ
-    researchgate : https://www.researchgate.net/profile/Agusti_Lledos
   
   - title : Young Scientist Collaborators
-    yscientist : Xavier, Mario
+    yscientist : >
+        Lorea Velasco Carneros <br> 
+        Mario García-Risco Aguado <br> 
+        Nor El Houda Medigue <br> 
+        Daniel Dorce <br>
+
