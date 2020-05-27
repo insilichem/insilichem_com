@@ -47,6 +47,13 @@ members  :
     twitter : https://twitter.com/josan_bcn?s=20
     github : https://github.com/josan82
 
+  - name  :  Lorea Velasco Carneros
+    image : images/about/loreav.jpeg
+    designation : PhD Student (2018-)
+    field : Regulation of the human disaggregase system, which is key for the prevention of neurodegenerative diseases.
+    background : Biochemistry and Molecular Biology
+    researchgate : https://www.researchgate.net/profile/Lorea_Velasco 
+
   - name  :  Laura Tiessler-Sala
     image : images/about/laurat.jpg
     designation : PhD Student (2019-)
@@ -69,18 +76,34 @@ members  :
     
   - name  : Iker Zapirain Gysling
     image : images/about/iker.jpg
-    designation : PhD (2019-)
+    designation : PhD Student (2019-)
     field : Supra-Bio-Catalysis and design of Artificial Metalloenzymes.
     background : Biochemistry
     linkedIn : https://www.linkedin.com/in/zgysling/
     twitter : https://twitter.com/zapisaurus?s=20
 
   - name  :  Xavier Fernández Luengo
-    image : images/about/loreav.jpeg
+    image : images/about/xavierf.jpeg
     designation : PhD Student (2019-)
-    field : 
-    background : 
-    researchgate :  
+    field : Design of Artificial Metalloenzymes.
+    background : Double degree in Physics and Chemistry
+    linkedIn :  www.linkedin.com/in/xfdezluengo
+    github :  https://github.com/xavioist
+
+  - name  :  Mario García-Risco
+    image : images/about/mariog.jpg
+    designation : PhD Stay (2017-)
+    field : Characterization of Cantareus aspersum metallothioneins and study of their interaction with hemocyanin functional units.
+    background : Biotechnology
+    linkedIn :  https://www.linkedin.com/in/mario-garcía-risco-aguado-9a4a9610a/
+    researchgate :  https://www.researchgate.net/profile/Mario_Garcia-Risco
+
+  - name  :  Nor El Houda Medigue
+    image : images/about/houda.jpg
+    designation : PhD Stay (2019-)
+    field : Molecular modeling of metal complexes with QM/MM methods.
+    background : Chemistry
+    researchgate : https://www.researchgate.net/profile/Medigue_Nor_El_Houda
 
   - name  : Laura Martínez
     image : images/about/lauram.jpg
@@ -89,10 +112,23 @@ members  :
     background : Chemistry
     linkedIn : https://www.linkedin.com/in/laura-martinez-castro-93bb3b155
   
+  - name  : Daniel Dorce
+    image : images/about/daniel_dorce.jpg
+    designation : Master student (2019-)
+    field : "Molecular modeling of Vitamin B12 loaded activated carbon: from binding to catalysis the degradation of Chlordecone"
+    background : Chemistry
+    linkedIn : https://www.linkedin.com/in/dorce-daniel-64a97367/
+    researchgate : https://www.researchgate.net/profile/Daniel_Dorce
+
+  - name  : Israini Wiyulanda Iskandar
+    image : images/about/israini.jpeg
+    designation : Master student (2019-)
+    field : In-Silico characterization of Natural Compounds With Molecular Modelling of Aromatase.
+    background : Chemistry
+    linkedIn : https://www.linkedin.com/in/israini-wiyulanda-11698411b
+    researchgate : https://www.researchgate.net/profile/Israini_Iskandar
+    twitter : https://twitter.com/israini_aini
+  
   - title : Young Scientist Collaborators
-    yscientist : >
-        Lorea Velasco Carneros <br> 
-        Mario García-Risco Aguado <br> 
-        Nor El Houda Medigue <br> 
-        Daniel Dorce <br>
+    yscientist : > 
 
