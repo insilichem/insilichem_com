@@ -36,7 +36,7 @@
                     <div class="container">
                         {{ range $index, $element:= .Site.Data.Research.software.items }}
                         <div class="blog-meta">
-                            {{ with .title }}<div class="section"><h3 class="title_section3 revealable">{{ . }}</h3>{{ end }}
+                            {{ with .title }}<div class="section"><h3 class="title_section3">{{ . }}</h3>{{ end }}
                             {{ with .description }}<p class="description truncate">{{ . | safeHTML }}</p>{{ end }}
                             </div>
                         </div>
