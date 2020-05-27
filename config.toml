@@ -1,5 +1,4 @@
-# TODO: Update baseURL once deployed to InSiliChem.com
-baseURL = "https://jovial-noyce-98deec.netlify.com"
+baseURL = "https://insilichem.com"
 languageCode = "en-us"
 title = "InSiliChem - Chemobiological molecular modeling"
 theme = "timer-hugo"
