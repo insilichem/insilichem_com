@@ -49,7 +49,7 @@ description = "for the study and design of chemobiological systems"
 # button
 btn     = true
 btnText = "Know more"
-btnURL  = "/about"
+btnURL  = "/research"
 # flip text
 [[params.banner.flipText]]
 title   = "Molecular Modeling"
