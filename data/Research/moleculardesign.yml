@@ -37,9 +37,8 @@ items :
     description: > 
       Since the emergence of cis-platin as a key player in the fight against cancer, numerous drug design projects have been built around metalloligands. 
       Here, molecular modeling also requires methodologies optimized for the prediction of bio-inorganic adducts. 
-      In this field, we already work on a series of metallodrug design problems like the modeling of oxalyplatin interacting with insuline or a series of vanadium 
-      drug candidates. <br> We apply and test the 
-      latests updates in force field approaches in our studies on metallodrugs but, more than antyhing else, we develop metal compatible protein-ligand 
+      In this field, we already work on a series of metallodrug design problems like the modeling of oxalyplatin interacting with insuline or a series of oxidovanadium(IV) 
+      drug candidates. <br> We apply and test the latests updates in force field approaches in our studies on metallodrugs but, more than antyhing else, we develop metal compatible protein-ligand 
       docking software that give insights to where and how could metal containing species bind to a biological target. <br> In the recent years, we have been particularly 
       active in showing how computational framework like ours can be vital to predict accurately the binding of metallodrugs to their target when combined with 
       spectroscopic methods. In this, our collaboration with Prof. Eugenio Garribba (University of Sassari, Italy) has been of the most successful.
