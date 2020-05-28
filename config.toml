@@ -1,4 +1,4 @@
-baseURL = "https://insilichem.com"
+baseURL = "https://insilichem.com/"
 languageCode = "en-us"
 title = "InSiliChem - Chemobiological molecular modeling"
 theme = "timer-hugo"
