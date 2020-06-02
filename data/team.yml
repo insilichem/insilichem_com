@@ -127,8 +127,15 @@ members  :
     background : Chemistry
     linkedIn : https://www.linkedin.com/in/israini-wiyulanda-11698411b
     researchgate : https://www.researchgate.net/profile/Israini_Iskandar
-    twitter : https://twitter.com/israini_aini
+    twitter : https://twitter.com/israini_aini   
+
+  - name  : Fernando Davó Miralles
+    image : images/about/fernandodavo.jpeg
+    designation : TFG (2020-)
+    field : Implementation of Smina scoring function into GaudiMM to perform docking simulations with metalloligands.
+    background : Double Degree in Chemistry and Physics
+    linkedIn : https://www.linkedin.com/in/fernando-davó-miralles-20459b180/
   
-  - title : Young Scientist Collaborators
-    yscientist : > 
+#  - title : Young Scientist Collaborators
+#    yscientist : > 
 
