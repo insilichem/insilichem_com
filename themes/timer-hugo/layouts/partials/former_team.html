@@ -12,14 +12,15 @@
                 <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="{{ $delay }}ms">
                     {{ with .image }}
                     <div class="formerteam-img">
-                        <img src="{{ . | absURL }}" class="team-pic" alt="former-team-member">
+                        <img src="{{ . | relURL }}" class="team-pic" alt="former-team-member">
                     </div>
                     {{ end }}
                     {{ with .name }}<h3 class="team_name">{{ . }}</h3>{{ end }}
                     {{ with .designation }}<p class="team_designation">{{ . }}</p>{{ end }}
                     {{ with .field }}<p class="team_field"><strong>Field of research</strong><br>{{ . }}</p>{{ end }}
                     {{ with .background }}<p class="team_text"><strong>Background</strong><br>{{ . }}</p>{{ end }}
-                    {{ with .workplace }}<p class="work_place"><strong>Current working place</strong><br>{{ . }}</p>{{ end }}
+                    {{ with .workplace }}<p class="work_place"><strong>Current working place</strong><br>{{ . }}</p>
+                    {{ end }}
 
                     <p class="social-icons">
                         {{ with .googlescholar }}
