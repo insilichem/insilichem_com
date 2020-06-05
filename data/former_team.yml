@@ -5,15 +5,15 @@ members  :
     image : images/about/bart.jpg
     designation : Master Thesis (2019)
     background : Chemistry
-    field : Computer aided design of Artificial Metalloenzymes
+    field : Computer aided design of Artificial Metalloenzymes.
     workplace : University of Groningen
     linkedIn : https://www.linkedin.com/in/bart-brouwer-124204ab/?originalSubdomain=nl
-  
+
   - name  : Mercè Alemany Chavarria
     image : images/about/merce.jpg
-    designation : Grade and Master Thesis (2016-2018)
+    designation : Bachelor and Master Thesis (2016-2018)
     background : Biochemistry
-    field : DevOps, development of automatization tools for informatic systems and processes
+    field : DevOps, development of automatization tools for informatic systems and processes.
     workplace : LaCaixa
     linkedIn : https://www.linkedin.com/in/mercè-alemany-chavarria-02371b180/?originalSubdomain=es
     researchgate : https://www.researchgate.net/profile/Merce_Alemany-Chavarria
@@ -32,7 +32,7 @@ members  :
     image : images/about/jaime.jpg
     designation : PhD Student (2015-2018)
     background : Biotechnology
-    field : Development of a novel software platform for complex molecular design written in Python
+    field : Development of a novel software platform for complex molecular design written in Python.
     workplace : Charité Universitätsmedizin Berlin
     linkedIn : https://www.linkedin.com/in/jaimergp
     researchgate : https://www.researchgate.net/profile/Jaime_Rodriguez-Guerra_Pedregal
@@ -43,7 +43,7 @@ members  :
     image : images/about/karel.jpg
     designation : Master Thesis (2016)
     background : Biochemistry
-    field : 
+    field :
     workplace : CRG
     linkedIn : https://www.linkedin.com/in/kareldepourcq/?originalSubdomain=es
 
@@ -51,14 +51,14 @@ members  :
     image : images/about/victor.jpg
     designation : PhD Student
     background : Biotechnology
-    field : Computational Study of Artificial Metalloenzymes
-    workplace : 
+    field : Computational Study of Artificial Metalloenzymes.
+    workplace :
     linkedIn : https://www.linkedin.com/in/victor-mu%C3%B1oz-robles-5427b166/?originalSubdomain=es
 
   - name  : Dr. Elisabeth Ortega-Carrasco
     image : images/about/eli_ortega.jpeg
-    designation : PhD Student (-)
+    designation : PhD Student
     background : Chemistry
-    field : Prediction of the interactions of metalloligands with proteins
+    field : Prediction of the interactions of metalloligands with proteins.
     workplace : "Lead Molecular Design, S.L."
     linkedin : https://www.linkedin.com/in/elisabeth-ortega-carrasco-8073191b/?originalSubdomain=es

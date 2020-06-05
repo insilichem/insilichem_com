@@ -4,14 +4,14 @@ members  :
   - name  :  Dr. Jean-Didier Maréchal
     image : images/about/jeandidier.jpg
     designation : Team leader (2009)
-    field : Molecular Modeling applied to Biotechnology.  
+    field : Molecular Modeling applied to Biotechnology.
     background : Physical Chemistry and Structural Bioinformatics
     linkedIn    : https://www.linkedin.com/in/jean-didier-mar%C3%A9chal-68307510
     googlescholar : https://scholar.google.es/citations?user=1hjLUfgAAAAJ
     researchgate : https://www.researchgate.net/profile/Jean-Didier_Marechal
     web  : http://gent.uab.cat/jdidier/
     twitter : https://twitter.com/jeandidiermare1?s=20
-  
+
   - name  :  Prof. Dr. Agustí Lledós
     image : images/about/agusti.jpg
     designation : Group Leader since 1990
@@ -34,9 +34,9 @@ members  :
     designation : PhD Student (2017-)
     field : Molecular modeling of transition metal systems with QM/MM methods.
     background : Chemistry
-    linkedIn : 
-    googlescholar : 
-    researchgate : 
+    linkedIn :
+    googlescholar :
+    researchgate :
 
   - name  :  José Emilio Sánchez
     image : images/about/jose.jpg
@@ -45,7 +45,7 @@ members  :
     background : Informatics
     researchgate : https://www.researchgate.net/profile/Jose_Emilio_Sanchez-Aparicio
     twitter : https://twitter.com/josan_bcn?s=20
-    github : https://github.com/josan82 
+    github : https://github.com/josan82
 
   - name  :  Laura Tiessler-Sala
     image : images/about/laurat.jpg
@@ -65,8 +65,8 @@ members  :
     linkedIn : https://www.linkedin.com/in/lorena-roldan-biomedica/
     googlescholar : https://scholar.google.es/citations?hl=es&user=9y1OkKYAAAAJ
     researchgate : https://www.researchgate.net/profile/Lorena_Roldan2
-    github : https://github.com/lorenarm96  
-    
+    github : https://github.com/lorenarm96
+
   - name  : Iker Zapirain Gysling
     image : images/about/iker.jpg
     designation : PhD Student (2019-)
@@ -111,11 +111,11 @@ members  :
     field : Molecular modeling of metalopeptides with QM/MM methods.
     background : Chemistry
     linkedIn : https://www.linkedin.com/in/laura-martinez-castro-93bb3b155
-  
+
   - name  : Daniel Dorce
     image : images/about/daniel_dorce.jpg
     designation : Master Student (2019-)
-    field : "Molecular modeling of Vitamin B12 loaded activated carbon: from binding to catalysis the degradation of Chlordecone"
+    field : "Molecular modeling of Vitamin B12 loaded activated carbon: from binding to catalysis the degradation of Chlordecone."
     background : Chemistry
     linkedIn : https://www.linkedin.com/in/dorce-daniel-64a97367/
     researchgate : https://www.researchgate.net/profile/Daniel_Dorce
@@ -127,7 +127,7 @@ members  :
     background : Chemistry
     linkedIn : https://www.linkedin.com/in/israini-wiyulanda-11698411b
     researchgate : https://www.researchgate.net/profile/Israini_Iskandar
-    twitter : https://twitter.com/israini_aini   
+    twitter : https://twitter.com/israini_aini
 
   - name  : Fernando Davó Miralles
     image : images/about/fernandodavo.jpeg
@@ -135,7 +135,7 @@ members  :
     field : Implementation of Smina scoring function into GaudiMM to perform docking simulations with metalloligands.
     background : Double Degree in Chemistry and Physics
     linkedIn : https://www.linkedin.com/in/fernando-davó-miralles-20459b180/
-  
+
 #  - title : Young Scientist Collaborators
-#    yscientist : > 
+#    yscientist : >
 
