@@ -1,7 +1,7 @@
 enable  : true
 title   : Complete list of publications (since 2010)
 paper  :
-    - author : Sánchez-Aparicio JE. et al
+    - author : Sánchez-Aparicio JE. et al.
       title : "BioMetAll: Identifying Metal-Binding Sites in Proteins from Backbone Preorganization"
       journal : J. Chem. Inf. Model
       year : 2021
