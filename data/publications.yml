@@ -3,6 +3,12 @@ title   : OUR LATEST PUBLICATIONS
 subtitle: >
   Our group has a high level of research production and publication. In this section, some of the latest publications are shown.
 item    :
+  - image  : images/publications/sanchez2021.png
+    title : "BioMetAll: Identifying Metal-Binding Sites in Proteins from Backbone Preorganization"
+    author : JE. Sánchez-Aparicio, et al.
+    characteristics : "J. Chem. Inf. Model., 2021 (Q1, IF: 4.549)"
+    doi : "https://doi.org/10.1021/acs.jcim.0c00827"
+
   - image  : images/publications/cotchico2018.png
     title : "Molecular Modeling for Artificial Metalloenzyme Design and Optimization"
     author : L. Cotchico, et al.
@@ -33,8 +39,3 @@ item    :
     characteristics : "Inor. Chem., 2019 (Q1, IF: 4.850)"
     doi : "https://doi.org/10.1021/acs.inorgchem.8b02374"
 
-  - image  : images/publications/villarino2018.jpg
-    title : "An Artificial Heme Enzyme for Cyclopropanation Reactions"
-    author : L. Villarino, et al.
-    characteristics : "Angewandte, 2018 (Q1, IF: 12.257)"
-    doi : "https://doi.org/10.1002/anie.201802946"

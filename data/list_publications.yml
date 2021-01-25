@@ -1,6 +1,18 @@
 enable  : true
 title   : Complete list of publications (since 2010)
 paper  :
+    - author : Sánchez-Aparicio JE. et al
+      title : "BioMetAll: Identifying Metal-Binding Sites in Proteins from Backbone Preorganization"
+      journal : J. Chem. Inf. Model
+      year : 2021
+      quartile : Q1
+      IF : 4.549
+    - author : Gómez-González J. et al.
+      title : "Dynamic Stereoselection of Peptide Helicates and Their Selective Labeling of DNA Replication Foci in Cells"
+      journal : Angewandte International Edition Chemie
+      year : 2020
+      quartile : Q1
+      IF : 12.959 
     - author  :  Norjmaa G. et al.
       title : "Microsolvation and Encapsulation Effects on Supramolecular Catalysis: C−C Reductive Elimination inside [Ga4L6]12- Metallocage"
       journal : JACS
