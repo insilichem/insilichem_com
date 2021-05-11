@@ -3,8 +3,10 @@
 <section id="publications">
     <div class="container">
         <div class="section-heading" style="margin-top:30px">
-            {{ with .Site.Data.publications.title }}<h2 class="subtitle text-center" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
-            {{ with .Site.Data.publications.subtitle }}<p class="wow fadeInDown" data-wow-delay=".5s">{{ . | safeHTML }}</p>{{ end }}
+            {{ with .Site.Data.publications.title }}<h2 class="subtitle text-center" data-wow-delay=".3s">{{ . }}</h2>
+            {{ end }}
+            {{ with .Site.Data.publications.subtitle }}<p class="wow fadeInDown" data-wow-delay=".5s">{{ . | safeHTML }}
+            </p>{{ end }}
         </div>
         <div class="row">
             {{ range $index, $elemrnt := .Site.Data.publications.item }}
@@ -14,7 +16,7 @@
                     <div class="media-body" style="text-align:center">
                         {{ with .image }}
                         <div class="pub-image">
-                            <img src="{{ . | absURL }}" class="pub-pic" alt="image-paper">
+                            <img src="{{ . | relURL }}" class="pub-pic" alt="image-paper">
                         </div>
                         {{ end }}
                         {{ with .title }}<h5 class="media-heading">{{ . }}</h5>{{ end }}

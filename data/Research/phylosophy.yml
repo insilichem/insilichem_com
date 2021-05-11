@@ -44,6 +44,6 @@ items:
     description: >
       A large part of the activity of the group is dedicated to metal bound systems. In this it is fundamental to have access to predictive tools for the simulation of
       metal binding process and the determination of metal binding sites in proteins. We have developed several updates in the molecular modeling framework specialized
-      to metal binding processes. Regarding dockings, we have developed extensions into standard docking programs liek Gold to deal with metalloligands and also gave
+      to metal binding processes. Regarding dockings, we have developed extensions into standard docking programs like Gold to deal with metalloligands and also gave
       such abilities to GaudiMM. We also developed metal binding predictors that allow to identify those regions of the protein that could recognize metal ions or
       inorganic systems.

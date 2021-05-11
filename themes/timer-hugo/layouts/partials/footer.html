@@ -3,14 +3,15 @@
     <div class="container">
         <div class="row content-justify-between">
             <div class="col-md-8 col-12 text-center text-lg-left text-md-left">
-                <p class="copyright">Copyright:
+                <p class="copyright">
                     <span>
-                        <script>document.write(new Date().getFullYear())</script>.
+                        &copy;{{ now.Format "2006"}}
                     </span> With ♥ by
                     <a href="http://github.com/jaimergp" target="_blank">@jaimergp</a> &amp;
                     <a href="http://github.com/lorenarm96" target="_blank">@lorenarm96</a>
-                    <br> Adapted from
+                    <br /> Adapted from
                     <a href="https://themefisher.com/free-bootstrap-templates/" target="_blank">ThemeFisher</a>
+                    <br /> Last updated on {{ now.Format "02.01.2006" }}.
                 </p>
             </div>
             <div class="col-md-4 col-12">
@@ -27,31 +28,31 @@
 {{ "<!-- footer section end -->" | safeHTML }}
 
 {{ "<!-- jquery -->" | safeHTML }}
-<script src="{{ `plugins/jQuery/jquery.min.js` | absURL }}"></script>
+<script src="{{ `plugins/jQuery/jquery.min.js` | relURL }}"></script>
 {{ "<!-- Form Validation -->" | safeHTML }}
-<script src="{{ `plugins/form-validation/jquery.form.js` | absURL }}"></script>
-<script src="{{ `plugins/form-validation/jquery.validate.min.js` | absURL }}"></script>
+<script src="{{ `plugins/form-validation/jquery.form.js` | relURL }}"></script>
+<script src="{{ `plugins/form-validation/jquery.validate.min.js` | relURL }}"></script>
 {{ "<!-- slick slider -->" | safeHTML }}
-<script src="{{ `plugins/slick/slick.min.js` | absURL }}"></script>
+<script src="{{ `plugins/slick/slick.min.js` | relURL }}"></script>
 {{ "<!-- bootstrap js -->" | safeHTML }}
-<script src="{{ `plugins/bootstrap/bootstrap.min.js` | absURL }}"></script>
+<script src="{{ `plugins/bootstrap/bootstrap.min.js` | relURL }}"></script>
 {{ "<!-- wow js -->" | safeHTML }}
-<script src="{{ `plugins/wow-js/wow.min.js` | absURL }}"></script>
+<script src="{{ `plugins/wow-js/wow.min.js` | relURL }}"></script>
 {{ "<!-- slider js -->" | safeHTML }}
-<script src="{{ `plugins/slider/slider.js` | absURL }}"></script>
+<script src="{{ `plugins/slider/slider.js` | relURL }}"></script>
 {{ "<!-- Fancybox -->" | safeHTML }}
-<script src="{{ `plugins/fancybox/jquery.fancybox.js` | absURL }}"></script>
+<script src="{{ `plugins/fancybox/jquery.fancybox.js` | relURL }}"></script>
 {{ "<!-- template main js -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
 {{ "<!-- google analitycs -->" | safeHTML }}
 <script>
-        (function (i, s, o, g, r, a, m) {
+    (function (i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
             (i[r].q = i[r].q || []).push(arguments)
         }, i[r].l = 1 * new Date(); a = s.createElement(o),
             m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
     ga('create', '{{ .Site.Params.googleAnalitycsID }}', 'auto');
     ga('send', 'pageview');
 </script>
