@@ -40,7 +40,7 @@
                         {{ with .Site.Data.Research.moleculardesign.definition }}<p class="description">
                             {{ . | safeHTML }}</p>{{ end }}
                         <div class="col-md-6 wow fadeInLeft" data-wow-delay=".3s">
-                            {{ with .Site.Data.Research.moleculardesign.image }}<img src="{{ . | absURL }}" alt=""
+                            {{ with .Site.Data.Research.moleculardesign.image }}<img src="{{ . | relURL }}" alt=""
                                 class="img-fluid">{{ end }}
                         </div>
                         {{ range $index, $element:= .Site.Data.Research.moleculardesign.items }}
@@ -74,7 +74,7 @@
                         {{ with .Site.Data.Research.biomedicine.definition }}<p class="description">{{ . | safeHTML }}
                         </p>{{ end }}
                         <div class="col-md-6 wow fadeInLeft" data-wow-delay=".3s">
-                            {{ with .Site.Data.Research.biomedicine.image }}<img src="{{ . | absURL }}" alt=""
+                            {{ with .Site.Data.Research.biomedicine.image }}<img src="{{ . | relURL }}" alt=""
                                 class="img-fluid">{{ end }}
                         </div>
                         {{ range $index, $element:= .Site.Data.Research.biomedicine.items }}
@@ -108,7 +108,7 @@
                         {{ with .Site.Data.Research.software.definition }}<p class="description">{{ . | safeHTML}}</p>
                         {{ end }}
                         <div class="col-md-6 wow fadeInLeft" data-wow-delay=".3s">
-                            {{ with .Site.Data.Research.software.image }}<img src="{{ . | absURL }}" alt=""
+                            {{ with .Site.Data.Research.software.image }}<img src="{{ . | relURL }}" alt=""
                                 class="img-fluid">{{ end }}
                         </div>
                         {{ range $index, $element:= .Site.Data.Research.software.items }}
