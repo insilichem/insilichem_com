@@ -21,23 +21,6 @@ members  :
     googlescholar : https://scholar.google.com/citations?user=04cVx6UAAAAJ
     researchgate : https://www.researchgate.net/profile/Agusti_Lledos
 
-  - name  :  Dr. Giuseppe Sciortino
-    image : images/about/giuseppe.jpg
-    designation : PostDoc Researcher (PhD 2016-2019)
-    field : Spectroscopy-integrated computational modeling of metallodrugs & metalloenzymes. Organometallic reactivity and homogeneous catalysis.
-    background : Chemistry
-    googlescholar : https://scholar.google.es/citations?user=YBaoVjsAAAAJ
-    researchgate : https://www.researchgate.net/profile/Giuseppe_Sciortino2
-
-  - name  :  Gantulga Norjmaa
-    image : images/about/gantulga.jpg
-    designation : PhD Student (2017-)
-    field : Molecular modeling of transition metal systems with QM/MM methods.
-    background : Chemistry
-    linkedIn :
-    googlescholar :
-    researchgate :
-
   - name  :  José Emilio Sánchez
     image : images/about/jose.jpg
     designation : PhD Student (2017-)
@@ -83,58 +66,32 @@ members  :
     linkedIn :  www.linkedin.com/in/xfdezluengo
     github :  https://github.com/xavioist
 
-  - name  :  Lorea Velasco Carneros
-    image : images/about/loreav.jpeg
-    designation : PhD Visitor (2018-)
-    field : Regulation of the human disaggregase system, which is key for the prevention of neurodegenerative diseases.
-    background : Biochemistry and Molecular Biology
-    researchgate : https://www.researchgate.net/profile/Lorea_Velasco
-
-  - name  :  Mario García-Risco
-    image : images/about/mariog.jpg
-    designation : PhD Visitor (2017-)
-    field : Characterization of Cantareus aspersum metallothioneins and study of their interaction with hemocyanin functional units.
-    background : Biotechnology
-    linkedIn :  https://www.linkedin.com/in/mario-garcía-risco-aguado-9a4a9610a/
-    researchgate :  https://www.researchgate.net/profile/Mario_Garcia-Risco
-
-  - name  :  Nor El Houda Medigue
-    image : images/about/houda.jpg
-    designation : PhD Visitor (2019-)
-    field : Molecular modeling of metal complexes with QM/MM methods.
-    background : Chemistry
-    researchgate : https://www.researchgate.net/profile/Medigue_Nor_El_Houda
-
   - name  : Laura Martínez
     image : images/about/lauram.jpg
-    designation : Master Student (2018-)
+    designation : PhD Student (2021-)
     field : Molecular modeling of metalopeptides with QM/MM methods.
     background : Chemistry
     linkedIn : https://www.linkedin.com/in/laura-martinez-castro-93bb3b155
 
-  - name  : Daniel Dorce
-    image : images/about/daniel_dorce.jpg
-    designation : Master Student (2019-)
-    field : "Molecular modeling of Vitamin B12 loaded activated carbon: from binding to catalysis the degradation of Chlordecone."
-    background : Chemistry
-    linkedIn : https://www.linkedin.com/in/dorce-daniel-64a97367/
-    researchgate : https://www.researchgate.net/profile/Daniel_Dorce
+  - name  :  Raúl Fernández Díaz
+    image : images/about/raul.jpg
+    designation : PhD Student (2022-)
+    field : Application of Machine Learning to Biochemistry.
+    background : BSc in Biotechnology, MSc in Bioinformatics
+    linkedIn :  www.linkedin.com/in/raul-fernandez-diaz-939440203
+    github :  https://github.com/RaulFD-creator
 
-  - name  : Israini Wiyulanda Iskandar
-    image : images/about/israini.jpeg
-    designation : Master Student (2019-)
-    field : In-Silico characterization of Natural Compounds With Molecular Modelling of Aromatase.
-    background : Chemistry
-    linkedIn : https://www.linkedin.com/in/israini-wiyulanda-11698411b
-    researchgate : https://www.researchgate.net/profile/Israini_Iskandar
-    twitter : https://twitter.com/israini_aini
+  - name: Derik Rochlitzer Puig
+    image : images/about/derik.jpg
+    designation: Undergrad Student
+    field: Development of software for molecular docking
+    background: Double degree in Physics and Chemistry
+    github: https://github.com/derik-rochlitzer
 
-  - name  : Fernando Davó Miralles
-    image : images/about/fernandodavo.jpeg
-    designation : TFG (2020-)
-    field : Implementation of Smina scoring function into GaudiMM to perform docking simulations with metalloligands.
-    background : Double Degree in Chemistry and Physics
-    linkedIn : https://www.linkedin.com/in/fernando-davó-miralles-20459b180/
+  - name: Ana Sánchez Ferrón
+    designation: Undergrad Student
+    field: Molecular modelling of metallopeotides with QM/MM
+    background: Double degree in Physics and Chemistry
 
 #  - title : Young Scientist Collaborators
 #    yscientist : >

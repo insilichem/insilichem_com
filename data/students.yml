@@ -1,0 +1,24 @@
+enable  : true
+title   : PREVIOUS STUDENTS
+members  :
+  - name  : Daniel Dorce
+    image : images/about/daniel_dorce.jpg
+    designation : Master Student (2019-2020)
+    field : "Molecular modeling of Vitamin B12 loaded activated carbon: from binding to catalysis the degradation of Chlordecone."
+    background : Chemistry
+
+  - name  : Israini Wiyulanda Iskandar
+    image : images/about/israini.jpeg
+    designation : Master Student (2019-2020)
+    field : In-Silico characterization of Natural Compounds With Molecular Modelling of Aromatase.
+    background : Chemistry
+
+  - name  : Fernando Davó Miralles
+    image : images/about/fernandodavo.jpeg
+    designation : TFG (2020)
+    field : Implementation of Smina scoring function into GaudiMM to perform docking simulations with metalloligands.
+    background : Double Degree in Chemistry and Physics
+
+
+
+

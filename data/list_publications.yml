@@ -1,6 +1,104 @@
 enable  : true
 title   : Complete list of publications (since 2010)
 paper  :
+    - author  : Learte-Aymamí S. et al.
+      title : "Controlling oncogenic KRAS signaling pathways with a Palladium-responsive peptide"
+      journal : Commun. Chem.
+      year : 2022
+      quartile : Q1
+      IF : 5.34
+
+    - author  : Christoffel F. et al.
+      title : "Design and evolution of chimeric streptavidin for protein-enabled dual gold catalysis"
+      journal : Nat. Catal.
+      year : 2022
+      quartile : Q1
+      IF : 40.706
+
+    - author  : Gómez-González J. et al.
+      title : "Selective recognition of A/T-rich DNA 3-way junctions with a three-fold symmetric tripeptide"
+      journal : Chem. Comm.
+      year : 2022
+      quartile : Q1
+      IF : 6.22
+
+    - author  : Sánchez-Aparicio JE. et al.
+      title : "Successes and challenges in multiscale modelling of artificial metalloenzymes: the case study of POP-Rh 2 cyclopropanase"
+      journal : Faraday Discuss.
+      year : 2022
+      quartile : Q1
+      IF : 3.46
+
+    - author  : Norjmaa G. et al.
+      title : "Origin of the Rate Acceleration in the C−C Reductive Elimination from Pt(IV)‐complex in a [Ga4L6]12− Supramolecular Metallocage"
+      journal : Eur. J. Chem.
+      year : 2021
+      quartile : Q1
+      IF : 4.64
+
+    - author  : Norjmaa G. et al.
+      title : "Modeling Kinetics and Thermodynamics of Guest Encapsulation into the [M4L6]12– Supramolecular Organometallic Cage"
+      journal : J. Chem. Inf. Model
+      year : 2021
+      quartile : Q1
+      IF : 6.16
+
+    - author  : Roldán-Martín L. et al.
+      title : "Impact of Cu (ii) and Al (iii) on the conformational landscape of amyloidβ 1-42"
+      journal : Phys. Chem. Chem. Phys.
+      year : 2021
+      quartile : Q1
+      IF : 3.67
+
+    - author  : Sciortino G. et al.
+      title : "Integrated experimental/computational approaches to characterize the systems formed by vanadium with proteins and enzymes"
+      journal : J. Chem. Inf. Model
+      year : 2021
+      quartile : Q1
+      IF : 6.83
+
+    - author  : Sánchez-Aparicio JE. et al.
+      title : "BioMetAll: identifying metal-binding sites in proteins from backbone preorganization"
+      journal : J. Chem. Inf. Model
+      year : 2020
+      quartile : Q1
+      IF : 5.85
+
+    - author  : Sciortino G. et al.
+      title : "Unveiling VIVO2+ Binding Modes to Human Serum Albumins by an Integrated Spectroscopic–Computational Approach"
+      journal : Eur. J. Chem.
+      year : 2020
+      quartile : Q1
+      IF : 4.64
+
+    - author  : Norjmaa G. et al.
+      title : "Reaction Rate Inside the Cavity of [Ga4L6]12− Supramolecular Metallocage is Regulated by the Encapsulated Solvent"
+      journal : Eur. J. Chem.
+      year : 2020
+      quartile : Q1
+      IF : 4.64
+
+    - author  : Sciortino G. et al.
+      title : "Biospeciation of potential vanadium drugs of acetylacetonate in the presence of proteins"
+      journal : Front. Chem.
+      year : 2020
+      quartile : Q2
+      IF : 4.87
+
+    - author  : Cotchico-Alonso L. et al.
+      title : "Molecular modeling for artificial metalloenzyme design and optimization"
+      journal : Acc. Chem. Res.
+      year : 2020
+      quartile : Q1
+      IF : 22.384
+
+    - author  : Sciortino G. et al.
+      title : "Quantitative prediction of electronic absorption spectra of copper (II)–bioligand systems: Validation and applications"
+      journal : J. Inorg. Biochem.
+      year : 2020
+      quartile : Q2
+      IF : 4.155
+
     - author  :  Norjmaa G. et al.
       title : "Microsolvation and Encapsulation Effects on Supramolecular Catalysis: C−C Reductive Elimination inside [Ga4L6]12- Metallocage"
       journal : JACS

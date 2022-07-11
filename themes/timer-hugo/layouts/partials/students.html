@@ -1,0 +1,23 @@
+{{ if .Site.Data.team.enable }}
+{{ "<!-- Team Section Start -->" | safeHTML }}
+<section id="students">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                {{ with .Site.Data.students.title }}<h2 class="subtitle text-center">{{ . }}</h2>{{ end }}
+            </div>
+            {{ range $index, $element:= .Site.Data.students.members }}
+            <div class="col-md-3 col-sm-6">
+                {{ $delay := mul $index 200 }}
+                <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="{{ $delay }}ms">
+                    {{ with .name }}<h3 class="team_name">{{ . }}</h3>{{ end }}
+                    {{ with .designation }}<p class="team_designation">{{ . }}</p>{{ end }}
+                    {{ with .field }}<p class="team_field"><strong>Field of research</strong><br>{{ . }}</p>{{ end }}
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ "<!-- Team Section End -->" | safeHTML }}
+{{ end }}
