@@ -3,6 +3,18 @@ title   : OUR LATEST PUBLICATIONS
 subtitle: >
   Our group has a high level of research production and publication. In this section, some of the latest publications are shown.
 item    :
+  - image  : images/publications/christoffel2022.png
+    title : "Design and evolution of chimeric streptavidin for protein-enabled dual gold catalysis"
+    author : F. Christoffel, et al.
+    characteristics : "Nat. Catal., 2022 (Q1, IF: 40.706)"
+    doi : "https://doi.org/10.1038/s41929-022-00790-7"
+
+  - image  : images/publications/gomezgonzalez.png
+    title : "Selective recognition of A/T-rich DNA 3-way junctions with a three-fold symmetric tripeptide."
+    author : J. Gómez-González, et al.
+    characteristics : "Chem. Comm., 2021 (Q1, IF: 6.22)"
+    doi : "https://doi.org/10.3390/ijms20133155"
+
   - image  : images/publications/roldan2021.png
     title : "Impact of Cu(II) and Al(III) on the conformational landscape of Amyloidβ 1-42"
     author : L. Roldán-Martín, et al.
@@ -27,15 +39,4 @@ item    :
     characteristics : "Int. J. Mol. Sci, 2019 (Q2, IF: 4.183)"
     doi : "https://doi.org/10.3390/ijms20133155"
 
-  - image  : images/publications/gantulga2019.jpg
-    title : "Microsolvation and Encapsulation Effects on Supramolecular Catalysis: C−C Reductive Elimination inside [Ga4L6]12- Metallocage"
-    author : G. Norjmaa, et al.
-    characteristics : "JACS, 2019 (Q1, IF: 14.695)"
-    doi : "https://doi.org/10.1021/jacs.9b04909"
-
-  - image  : images/publications/sciortino2019_inchem.jpg
-    title : "Validation and Applications of Protein–Ligand Docking Approaches Improved for Metalloligands with Multiple Vacant Sites"
-    author : G. Sciortino, et al.
-    characteristics : "Inor. Chem., 2019 (Q1, IF: 4.850)"
-    doi : "https://doi.org/10.1021/acs.inorgchem.8b02374"
 

@@ -82,7 +82,6 @@ To include or change members, `/data/team.yml` and `/data/former_team.yml` are t
 
 The images of the members have to be scale to 200 x 200 pixels in order to keep the same size in the webpage.
 
-The images of the members have to be scale to 200 x 200 pixels in order to keep the same size in the webpage.
 
 ## How to use images
 
