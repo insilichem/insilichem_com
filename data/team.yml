@@ -89,6 +89,7 @@ members  :
     github: https://github.com/derik-rochlitzer
 
   - name: Ana Sánchez Ferrón
+    image : images/about/anas.jpg
     designation: Undergrad Student
     field: Molecular modelling of metallopeotides with QM/MM
     background: Double degree in Physics and Chemistry
