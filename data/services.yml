@@ -16,6 +16,11 @@ subtitle: >
   In case of being interested, please contact <a href="mailto:jeandidier.marechal@uab.es">jeandidier.marechal@uab.es</a>.
 
 item    :
+  - name : BioMetAll 
+    url : https://biometall.readthedocs.io/en/latest/
+    description : Prediction of metal binding sites in protein hosts.
+    image :  /images/software/biometall.png
+
   - name : GaudiMM 
     url : https://gaudi.readthedocs.io/en/latest/
     description : GaudiMM, for Genetic Algorithms with Unrestricted Descriptors for Intuitive Molecular Modeling, helps to sketch new molecular designs that require complex interactions.
@@ -35,6 +40,8 @@ item    :
     url : https://tangram-suite.readthedocs.io/en/latest/
     description : A collection of molecular modelling tools for UCSF Chimera.
     image :  /images/software/tangram.png
+  
+
   
 
 
