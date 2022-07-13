@@ -19,7 +19,7 @@ item    :
   - name : BioMetAll 
     url : https://biometall.readthedocs.io/en/latest/
     description : Prediction of metal binding sites in protein hosts.
-    image :  /images/software/biometall.png
+    image :  /images/software/biometal.png
 
   - name : GaudiMM 
     url : https://gaudi.readthedocs.io/en/latest/
