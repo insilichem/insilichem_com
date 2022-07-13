@@ -26,8 +26,8 @@ paper  :
       title : "Successes and challenges in multiscale modelling of artificial metalloenzymes: the case study of POP-Rh 2 cyclopropanase"
       journal : Faraday Discuss.
       year : 2022
-      quartile : Q1
-      IF : 3.46
+      quartile : Q2
+      IF : 4.39
 
     - author  : Norjmaa G. et al.
       title : "Origin of the Rate Acceleration in the C−C Reductive Elimination from Pt(IV)‐complex in a [Ga4L6]12− Supramolecular Metallocage"
@@ -124,8 +124,8 @@ paper  :
       title : "GPathFinder: Identification of Ligand-Binding Pathways by a Multi-Objective Genetic Algorithm"
       journal : Int. J. Mol. Sci.
       year : 2019
-      quartile : Q2
-      IF : 4.183       
+      quartile : Q1
+      IF : 4.556       
 
     - author  : Ugone V. et al.
       title : "Interaction of Vanadium(IV) Species with Ubiquitin: A Combined Instrumental and Computational Approach"
