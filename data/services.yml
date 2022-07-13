@@ -18,7 +18,7 @@ subtitle: >
 item    :
   - name : BioMetAll 
     url : https://biometall.readthedocs.io/en/latest/
-    description : Fast software for prediction of metal binding sites in pre-organized protein hosts.
+    description : BioMetAll is a command-line application for the prediction of metal-binding sites on protein hosts. It also allows recommending amino acid mutations to build a metal-binding site from an incipient motif.
     image :  /images/software/biometall.png
 
   - name : GaudiMM 
