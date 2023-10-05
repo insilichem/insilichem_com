@@ -1,6 +1,14 @@
 enable  : true
 title   : FORMER MEMBERS
 members  :
+  - name  :  Raúl Fernández Díaz
+    image : images/about/raul.jpg
+    designation : PhD Student (2022)
+    field : Application of Machine Learning to Biochemistry.
+    background : BSc in Biotechnology, MSc in Bioinformatics
+    linkedIn :  www.linkedin.com/in/raul-fernandez-diaz-939440203
+    github :  https://github.com/RaulFD-creator
+
   - name  :  Dr. Gantulga Norjmaa
     image : images/about/gantulga.jpg
     designation : PhD Student (2017-2022)
@@ -49,15 +57,6 @@ members  :
     workplace : University of Gröningen
     linkedIn : https://www.linkedin.com/in/bart-brouwer-124204ab/?originalSubdomain=nl
   
-  - name  : Mercè Alemany Chavarria
-    image : images/about/merce.jpg
-    designation : Bachelor and Master Thesis (2016-2018)
-    background : Biochemistry
-    field : DevOps, development of automatization tools for informatic systems and processes.
-    workplace : LaCaixa
-    linkedIn : https://www.linkedin.com/in/mercè-alemany-chavarria-02371b180/?originalSubdomain=es
-    researchgate : https://www.researchgate.net/profile/Merce_Alemany-Chavarria
-
   - name  : Dr. Lur Alonso
     image : images/about/lur.jpg
     designation : PhD Student (2015-2018)
