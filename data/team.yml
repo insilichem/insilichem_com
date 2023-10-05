@@ -21,9 +21,9 @@ members  :
     googlescholar : https://scholar.google.com/citations?user=04cVx6UAAAAJ
     researchgate : https://www.researchgate.net/profile/Agusti_Lledos
 
-  - name  :  José Emilio Sánchez
+  - name  :  Dr. José Emilio Sánchez
     image : images/about/jose.jpg
-    designation : PhD Student (2017-)
+    designation : PhD Student (2017-2022)
     field : Computational exploration of the chemical space in biomolecular systems.
     background : Informatics
     researchgate : https://www.researchgate.net/profile/Jose_Emilio_Sanchez-Aparicio
@@ -73,13 +73,13 @@ members  :
     background : Chemistry
     linkedIn : https://www.linkedin.com/in/laura-martinez-castro-93bb3b155
 
-  - name  :  Raúl Fernández Díaz
-    image : images/about/raul.jpg
+  - name  : Mercè Alemany Chavarria
+    image : images/about/merce.jpg
     designation : PhD Student (2022-)
-    field : Application of Machine Learning to Biochemistry.
-    background : BSc in Biotechnology, MSc in Bioinformatics
-    linkedIn :  www.linkedin.com/in/raul-fernandez-diaz-939440203
-    github :  https://github.com/RaulFD-creator
+    background : Biochemistry
+    field : Supra-Bio-Catalysis and design of Artificial Metalloenzymes. 
+    linkedIn : https://www.linkedin.com/in/mercè-alemany-chavarria-02371b180/?originalSubdomain=es
+    researchgate : https://www.researchgate.net/profile/Merce_Alemany-Chavarria
 
   - name: Derik Rochlitzer Puig
     image : images/about/derik.jpg

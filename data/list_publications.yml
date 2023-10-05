@@ -1,6 +1,27 @@
 enable  : true
 title   : Complete list of publications (since 2010)
 paper  :
+    - author  : Alemany-Chavarria M. et al.
+      title : "TALAIA: a 3D visual dictionary for protein structures"
+      journal : Bioinformatics
+      year : 2023
+      quartile : Q1
+      IF : 5.8
+
+    - author  : Roldán-Martín L. et al.
+      title : "Computational assessment of the impact of Cu(II) and Al(III) on β-amyloid42 fibrils: Binding sites, structural stability, and possible physiological implications"
+      journal : Front. Neuro.
+      year : 2023
+      quartile : Q2
+      IF : 4.3
+
+    - author  : Luang S. et al.
+      title : "The evolutionary advantage of an aromatic clamp in plant family 3 glycoside exo-hydrolases"
+      journal : Nat. Comm.
+      year : 2022
+      quartile : Q1
+      IF : 16.6
+
     - author  : Learte-Aymamí S. et al.
       title : "Controlling oncogenic KRAS signaling pathways with a Palladium-responsive peptide"
       journal : Commun. Chem.
