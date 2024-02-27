@@ -1,6 +1,13 @@
 enable  : true
 title   : Complete list of publications (since 2010)
 paper  :
+    - author : Roldán-Martín L. et al.
+      title : "Computational Study of Amyloidβ42 Familial Mutations and Metal Interaction: Impact on Monomers and Aggregates Dynamical Behaviors"
+      journal : Inorg. Chem.
+      year : 2024
+      quartile : Q1 
+      IF : 5.4
+
     - author  : Alemany-Chavarria M. et al.
       title : "TALAIA: a 3D visual dictionary for protein structures"
       journal : Bioinformatics
