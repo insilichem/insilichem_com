@@ -109,11 +109,17 @@ members  :
     field: Protein and DNA interaction with potential metallodrugs.
     background: Chemistry
 
-  - name: Gabriella Tito
-    image : images/about/gabriela.jpg
-    designation: PhD Student (Università degli Studi di Napoli Federico II)
-    field: Protein and DNA interacion with metal compounds: experimental/computational approach.
+  - name: Matteo Zaltieri
+    image : images/about/matteoz.jpg
+    designation: Master Student
+    field: Engineering of artificial metalloenzymes.
     background: Chemistry
+
+  - name: Lluís Moreno Balagué
+    image : images/about/lluis.jpg
+    designation: Master Student
+    field: Characterization of metal diffusion pathways in metalloproteins.               
+    background: Bioengineering
 
 #  - title : Young Scientist Collaborators
 #    yscientist : >
