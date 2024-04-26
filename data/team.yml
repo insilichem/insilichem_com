@@ -110,8 +110,8 @@ members  :
     background: Chemistry
 
   - name: Gabriella Tito
-#    image : images/about/gabriela.jpg
-    designation: PhD Student (Università degli Studi di Napoli Federico II)
+    image : images/about/gabriela.jpg
+    designation: PhD Student
     field: Protein and DNA interacion with metal compounds: experimental/computational approach.
     background: Chemistry
 
