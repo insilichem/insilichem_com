@@ -1,6 +1,26 @@
 enable  : true
 title   : FORMER MEMBERS
 members  :
+  - name  :  Lorena Roldán Martín
+    image : images/about/lorena.jpg
+    designation : PhD Student (2019-2024)
+    field : Molecular modeling of metalopeptides with QM/MM methods.
+    background : Biomedical Sciences
+    linkedIn : https://www.linkedin.com/in/lorena-roldan-biomedica/
+    googlescholar : https://scholar.google.es/citations?hl=es&user=9y1OkKYAAAAJ
+    researchgate : https://www.researchgate.net/profile/Lorena_Roldan2
+    github : https://github.com/lorenarm96
+
+  - name  :  Laura Tiessler Sala
+    image : images/about/laurat.jpg
+    designation : PhD Student (2019-2023)
+    field : MM and QM techniques applied to modeling metaloenzymes.
+    background : Biochemistry
+    linkedIn : https://www.linkedin.com/in/laura-tiessler-sala-b2a8b6168/
+    googlescholar : https://scholar.google.es/citations?user=t7pspTsAAAAJ&hl=es
+    researchgate : https://www.researchgate.net/profile/Laura_Tiessler-Sala
+    github : https://github.com/laura-tiessler
+
   - name  :  Raúl Fernández Díaz
     image : images/about/raul.jpg
     designation : PhD Student (2022)
@@ -17,15 +37,6 @@ members  :
     linkedIn :
     googlescholar :
     researchgate :
-
-  - name  :  Dr. Giuseppe Sciortino
-    image : images/about/giuseppe.jpg
-    designation : PostDoc Researcher (PhD 2016-2019)
-    field : Spectroscopy-integrated computational modeling of metallodrugs & metalloenzymes. Organometallic reactivity and homogeneous catalysis.
-    background : Chemistry
-    workplace : ICIQ
-    googlescholar : https://scholar.google.es/citations?user=YBaoVjsAAAAJ
-    researchgate : https://www.researchgate.net/profile/Giuseppe_Sciortino2
 
   - name  :  Lorea Velasco Carneros
     image : images/about/loreav.jpeg

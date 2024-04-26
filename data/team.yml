@@ -21,6 +21,15 @@ members  :
     googlescholar : https://scholar.google.com/citations?user=04cVx6UAAAAJ
     researchgate : https://www.researchgate.net/profile/Agusti_Lledos
 
+  - name  :  Dr. Giuseppe Sciortino
+    image : images/about/giuseppe.jpg
+    designation : Associate Professor (2024)
+    field : Spectroscopy-integrated computational modeling of metallodrugs & metalloenzymes. Organometallic >
+    background : Chemistry
+    workplace : ICIQ
+    googlescholar : https://scholar.google.es/citations?user=YBaoVjsAAAAJ
+    researchgate : https://www.researchgate.net/profile/Giuseppe_Sciortino2
+
   - name  :  Dr. José Emilio Sánchez
     image : images/about/jose.jpg
     designation : PhD Student (2017-2022)
@@ -93,6 +102,30 @@ members  :
     designation: Undergrad Student
     field: Molecular modelling of metallopeotides with QM/MM
     background: Double degree in Physics and Chemistry
+
+  - name: Federico Pisanu
+    image : images/about/federico.jpg
+    designation: PhD Student (Università degli Studi di Sassari)
+    field: Protein and DNA interaction with potential metallodrugs.
+    background: Chemistry
+
+  - name: Gabriella Tito
+    image : images/about/gabriela.jpg
+    designation: PhD Student (Università degli Studi di Napoli Federico II)
+    field: Protein and DNA interacion with metal compounds
+    background: Chemistry
+
+  - name: Matteo Zaltieri
+    image : images/about/matteoz.jpg
+    designation: Master Student
+    field: Engineering of artificial metalloenzymes.
+    background: Chemistry
+
+  - name: Lluís Moreno Balagué
+    image : images/about/lluis.jpg
+    designation: Master Student
+    field: Characterization of metal diffusion pathways in metalloproteins.               
+    background: Bioengineering
 
 #  - title : Young Scientist Collaborators
 #    yscientist : >
