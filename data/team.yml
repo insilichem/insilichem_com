@@ -1,7 +1,7 @@
 enable  : true
 title   : CURRENT MEMBERS
 members  :
-  - name  :  Dr. Jean-Didier Maréchal
+  - name  :  Prof. Dr. Jean-Didier Maréchal
     image : images/about/jeandidier.jpg
     designation : Team leader (2009)
     field : Molecular Modeling applied to Biotechnology.
@@ -22,7 +22,7 @@ members  :
     researchgate : https://www.researchgate.net/profile/Agusti_Lledos
 
   - name  :  Dr. Giuseppe Sciortino
-    image : images/about/giuseppe.jpg
+    image : images/about/giuseppe_sq.jpg
     designation : Associate Professor (2024)
     field : Spectroscopy-integrated computational modeling of metallodrugs & metalloenzymes. Organometallic >
     background : Chemistry
