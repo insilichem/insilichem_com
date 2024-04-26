@@ -103,6 +103,13 @@ members  :
     field: Molecular modelling of metallopeotides with QM/MM
     background: Double degree in Physics and Chemistry
 
+  - name: Federico Pisanu
+    image : images/about/federico.jpg
+    designation: PhD Student (Università degli Studi di Sassari)
+    field: Protein and DNA interaction with potential metallodrugs.
+    background: Chemistry
+
+
 #  - title : Young Scientist Collaborators
 #    yscientist : >
 
