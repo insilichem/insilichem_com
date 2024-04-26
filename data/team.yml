@@ -87,7 +87,7 @@ members  :
     background: Chemistry
     
   - name: Matteo Zaltieri
-    image: images/about/matteo.jpg
+    image: images/about/matteoz.jpg
     designation: Master Student
     field: Engineering of artificial metalloenzymes.
     background: Chemistry
@@ -96,7 +96,7 @@ members  :
     image: images/about/lluis.jpg
     designation: Master Student
     field: Characterization of metal diffusion pathways in metalloproteins.
-    background: Biomedical engineering
+    background: Bioengineering
 
 #  - title : Young Scientist Collaborators
 #    yscientist : >
