@@ -30,26 +30,6 @@ members  :
     twitter : https://twitter.com/josan_bcn?s=20
     github : https://github.com/josan82
 
-  - name  :  Laura Tiessler Sala
-    image : images/about/laurat.jpg
-    designation : PhD Student (2019-2023)
-    field : MM and QM techniques applied to modeling metaloenzymes.
-    background : Biochemistry
-    linkedIn : https://www.linkedin.com/in/laura-tiessler-sala-b2a8b6168/
-    googlescholar : https://scholar.google.es/citations?user=t7pspTsAAAAJ&hl=es
-    researchgate : https://www.researchgate.net/profile/Laura_Tiessler-Sala
-    github : https://github.com/laura-tiessler
-
-  - name  :  Lorena Roldán Martín
-    image : images/about/lorena.jpg
-    designation : PhD Student (2019-2024)
-    field : Molecular modeling of metalopeptides with QM/MM methods.
-    background : Biomedical Sciences
-    linkedIn : https://www.linkedin.com/in/lorena-roldan-biomedica/
-    googlescholar : https://scholar.google.es/citations?hl=es&user=9y1OkKYAAAAJ
-    researchgate : https://www.researchgate.net/profile/Lorena_Roldan2
-    github : https://github.com/lorenarm96
-
   - name  : Iker Zapirain Gysling
     image : images/about/iker.jpg
     designation : PhD Student (2019-)
@@ -84,7 +64,7 @@ members  :
   - name: Derik Rochlitzer Puig
     image : images/about/derik.jpg
     designation: Undergrad Student
-    field: Development of software for molecular docking
+    field: Development of software for molecular docking.
     background: Double degree in Physics and Chemistry
     github: https://github.com/derik-rochlitzer
 
@@ -93,6 +73,30 @@ members  :
     designation: Undergrad Student
     field: Molecular modelling of metallopeotides with QM/MM
     background: Double degree in Physics and Chemistry
+
+  - name: Federico Pisanu
+    image: images/about/federico.jpg
+    designation: PhD Student in Università degli Studi di Sassari
+    field: Protein and DNA interaction with potential metallodrugs.
+    background: Chemistry
+
+  - name: Gabriella Tito
+    image: images/about/gabriela.jpg
+    designation: PhD Student from Napoli Federico II
+    field: Protein and DNA interacion with metal compounds: experimental/computational approach. 
+    background: Chemistry
+    
+  - name: Matteo Zaltieri
+    image: images/about/matteo.jpg
+    designation: Master Student
+    field: Engineering of artificial metalloenzymes.
+    background: Chemistry
+
+  - name: Lluís Moreno Balagué
+    image: images/about/lluis.jpg
+    designation: Master Student
+    field: Characterization of metal diffusion pathways in metalloproteins.
+    background: Biomedical engineering
 
 #  - title : Young Scientist Collaborators
 #    yscientist : >
