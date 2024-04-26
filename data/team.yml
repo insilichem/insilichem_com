@@ -24,7 +24,7 @@ members  :
   - name  :  Dr. Giuseppe Sciortino
     image : images/about/giuseppe_sq.jpg
     designation : Associate Professor (2024)
-    field : Spectroscopy-integrated computational modeling of metallodrugs & metalloenzymes. Organometallic >
+    field : Spectroscopy-integrated computational modeling of metallodrugs & metalloenzymes. Organometallic reactivity and homogeneous catalysis.
     background : Chemistry
     workplace : ICIQ
     googlescholar : https://scholar.google.es/citations?user=YBaoVjsAAAAJ
@@ -38,26 +38,6 @@ members  :
     researchgate : https://www.researchgate.net/profile/Jose_Emilio_Sanchez-Aparicio
     twitter : https://twitter.com/josan_bcn?s=20
     github : https://github.com/josan82
-
-  - name  :  Laura Tiessler Sala
-    image : images/about/laurat.jpg
-    designation : PhD Student (2019-)
-    field : MM and QM techniques applied to modeling metaloenzymes.
-    background : Biochemistry
-    linkedIn : https://www.linkedin.com/in/laura-tiessler-sala-b2a8b6168/
-    googlescholar : https://scholar.google.es/citations?user=t7pspTsAAAAJ&hl=es
-    researchgate : https://www.researchgate.net/profile/Laura_Tiessler-Sala
-    github : https://github.com/laura-tiessler
-
-  - name  :  Lorena Roldán Martín
-    image : images/about/lorena.jpg
-    designation : PhD Student (2019-)
-    field : Molecular modeling of metalopeptides with QM/MM methods.
-    background : Biomedical Sciences
-    linkedIn : https://www.linkedin.com/in/lorena-roldan-biomedica/
-    googlescholar : https://scholar.google.es/citations?hl=es&user=9y1OkKYAAAAJ
-    researchgate : https://www.researchgate.net/profile/Lorena_Roldan2
-    github : https://github.com/lorenarm96
 
   - name  : Iker Zapirain Gysling
     image : images/about/iker.jpg
